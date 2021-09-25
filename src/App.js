@@ -1,4 +1,4 @@
-import * as React from 'react';
+import { useState } from 'react';
 import { withStyles } from '@mui/styles';
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
@@ -14,11 +14,27 @@ const Paper = withStyles((theme) => ({
 }))(MuiPaper);
 
 export default function App() {
+  const [data, setData] = useState(null);
+
+  const onFileChange = (event) => {
+    const files = event.target.files;
+    const file = files[0];
+    const reader = new FileReader();
+
+    reader.onload = function(event) {
+      const textContent = event.target.result;
+      console.log(textContent);
+      // TODO: Do number simulation with AWA
+    }
+
+    reader.readAsText(file)
+  };
+
   return (
     <Container maxWidth="md">
       <Box sx={{ my: 4 }}>
         <Paper>
-          <FileUploadButton />
+          <FileUploadButton onChange={onFileChange} />
         </Paper>
       </Box>
 
