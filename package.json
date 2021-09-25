@@ -13,11 +13,13 @@
     "@mui/material": "latest",
     "@mui/styles": "^5.0.1",
     "got": "^11.8.2",
+    "ky": "^0.28.5",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
     "recharts": "^2.1.4"
   },
+  "proxy": "https://tadhack-2021-berlin-client.vercel.app",
   "browserslist": {
     "production": [
       ">0.2%",

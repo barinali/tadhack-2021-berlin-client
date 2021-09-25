@@ -14,8 +14,30 @@ const Paper = withStyles((theme) => ({
   }
 }))(MuiPaper);
 
+const AWA_PROVIDER = 'AWA_PROVIDER';
+
+function modifier(data) {
+  const providers = data.routingResult.reduce((result, routingResult) => {
+    const { id: providerId, routingSummary } = routingResult;
+    const routingPaths = routingSummary.routingPaths;
+
+    return routingPaths.reduce(
+      (pricesPerProvider, routingPath) => ({
+        ...pricesPerProvider,
+        [routingPath.provider.id]: {
+          name: routingPath.provider.name,
+          totalCost: (pricesPerProvider[routingPath.provider.id]?.totalCost || 0) + routingPath.priceFactor.unitPrice
+        }
+      }),
+      result
+    )
+  }, { [AWA_PROVIDER]: { name: 'Multiple Provider (AWA)', totalCost: data.totalMinCost }});
+
+  return Object.values(providers);;
+}
+
 export default function App() {
-  const [data, setData] = useState(null);
+  const [data, setData] = useState([]);
 
   const onFileChange = (event) => {
     const files = event.target.files;
@@ -26,8 +48,16 @@ export default function App() {
       const textContent = event.target.result;
       const numbers = textContent.split(/\r?\n/);
 
-      const response = await simulateNumbers(numbers);
-      console.log('response', response);
+      try {
+        const response = await simulateNumbers(numbers);
+        console.log('response', response);
+        const computedData = modifier(response);
+
+        setData(computedData);
+      } catch (err) {
+        console.error(err);
+        setData([]);
+      }
     }
 
     reader.readAsText(file)
@@ -43,7 +73,7 @@ export default function App() {
 
       <Box sx={{ my: 4 }}>
         <Paper>
-          <PriceChart />
+          <PriceChart data={data} />
         </Paper>
       </Box>
     </Container>
