@@ -5,6 +5,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import MuiPaper from '@mui/material/Paper';
 import FileUploadButton from './components/FileUploadButton/FIleUploadButton';
+import PriceChart from './components/PriceChart';
 
 const Paper = withStyles((theme) => ({
   root: {
@@ -14,10 +15,16 @@ const Paper = withStyles((theme) => ({
 
 export default function App() {
   return (
-    <Container maxWidth="sm">
+    <Container maxWidth="md">
       <Box sx={{ my: 4 }}>
         <Paper>
           <FileUploadButton />
+        </Paper>
+      </Box>
+
+      <Box sx={{ my: 4 }}>
+        <Paper>
+          <PriceChart />
         </Paper>
       </Box>
     </Container>
