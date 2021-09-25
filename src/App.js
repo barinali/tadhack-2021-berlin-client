@@ -6,6 +6,7 @@ import Box from '@mui/material/Box';
 import MuiPaper from '@mui/material/Paper';
 import FileUploadButton from './components/FileUploadButton/FIleUploadButton';
 import PriceChart from './components/PriceChart';
+import { simulateNumbers } from './helpers/api';
 
 const Paper = withStyles((theme) => ({
   root: {
@@ -21,10 +22,12 @@ export default function App() {
     const file = files[0];
     const reader = new FileReader();
 
-    reader.onload = function(event) {
+    reader.onload = async function (event) {
       const textContent = event.target.result;
-      console.log(textContent);
-      // TODO: Do number simulation with AWA
+      const numbers = textContent.split(/\r?\n/);
+
+      const response = await simulateNumbers(numbers);
+      console.log('response', response);
     }
 
     reader.readAsText(file)

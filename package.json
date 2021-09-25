@@ -12,6 +12,7 @@
     "@emotion/styled": "latest",
     "@mui/material": "latest",
     "@mui/styles": "^5.0.1",
+    "got": "^11.8.2",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
