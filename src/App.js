@@ -14,6 +14,37 @@ const Paper = withStyles((theme) => ({
   }
 }))(MuiPaper);
 
+function modifier(data) {
+  // const data = [
+  //   {
+  //     name: "Twilio",
+  //     'Total cost': 2400,
+  //   },
+  //   {
+  //     name: "MessageBird",
+  //     'Total cost': 1398,
+  //   },
+  //   {
+  //     name: "Telnyx",
+  //     'Total cost': 9800,
+  //   },
+  //   {
+  //     name: "Multiple Provider (AWA)",
+  //     'Total cost': 3908,
+  //   }
+  // ];
+
+  return data.routingResult.reduce((result, current) => {
+    const providerId = current.id;
+
+    return {
+      ...result,
+    }
+  }, {});
+
+  return data;
+}
+
 export default function App() {
   const [data, setData] = useState(null);
 
@@ -26,8 +57,16 @@ export default function App() {
       const textContent = event.target.result;
       const numbers = textContent.split(/\r?\n/);
 
-      const response = await simulateNumbers(numbers);
-      console.log('response', response);
+      try {
+        const response = await simulateNumbers(numbers);
+        console.log('response', response);
+        const computedData = modifier(response);
+
+        setData(computedData);
+      } catch (err) {
+        console.error(err);
+        setData([]);
+      }
     }
 
     reader.readAsText(file)

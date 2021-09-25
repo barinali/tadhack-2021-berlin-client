@@ -18,6 +18,7 @@
     "react-scripts": "latest",
     "recharts": "^2.1.4"
   },
+  "proxy": "https://tadhack-2021-berlin-client.vercel.app",
   "browserslist": {
     "production": [
       ">0.2%",

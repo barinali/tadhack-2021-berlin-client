@@ -9,8 +9,6 @@ import {
   Legend
 } from "recharts";
 
-
-
 export default function PriceChart(props) {
   const data = [
     {
