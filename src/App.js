@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { withStyles } from '@mui/styles';
 import MuiContainer from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
+import Snackbar from '@mui/material/Snackbar';
 import MuiPaper from '@mui/material/Paper';
 import FileUploadButton from './components/FileUploadButton/FIleUploadButton';
 import PriceChart from './components/PriceChart';
@@ -52,9 +53,13 @@ function modifier(data) {
 }
 
 export default function App() {
+  const [isLoading, setLoading] = useState(false);
   const [data, setData] = useState([]);
+  const [snackbarMessage, setSnackbarMessage] = useState(null);
 
   const onFileChange = (event) => {
+    setSnackbarMessage(null);
+    setLoading(true);
     const files = event.target.files;
     const file = files[0];
     const reader = new FileReader();
@@ -67,10 +72,14 @@ export default function App() {
         const response = await simulateNumbers(numbers);
         const computedData = modifier(response);
 
+        setSnackbarMessage('The query is successful!');
         setData(computedData);
       } catch (err) {
         console.error(err);
+        setSnackbarMessage('The query has failed!');
         setData([]);
+      } finally {
+        setLoading(false);
       }
     }
 
@@ -80,12 +89,20 @@ export default function App() {
   return (
     <Container maxWidth="lg">
       <Paper>
-        <FileUploadButton onChange={onFileChange} />
+        <FileUploadButton onChange={onFileChange} disabled={isLoading} />
       </Paper>
 
       <AutoHeightPaper>
         <PriceChart data={data} />
       </AutoHeightPaper>
+
+      <Snackbar
+        anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
+        open={snackbarMessage}
+        onClose={() => setSnackbarMessage(null)}
+        autoHideDuration={5000}
+        message={snackbarMessage}
+      />
     </Container>
   );
 }

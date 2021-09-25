@@ -1,7 +1,8 @@
 import * as React from 'react';
 import Button from '@mui/material/Button';
+import CircularProgress from '@mui/material/CircularProgress';
 
-export default function FileUploadButton({ onChange }) {
+export default function FileUploadButton({ onChange, disabled }) {
   const changeHandler = (event) => {
     onChange(event);
 
@@ -13,6 +14,8 @@ export default function FileUploadButton({ onChange }) {
     <Button
       variant="contained"
       component="label"
+      disabled={disabled}
+      endIcon={disabled ? <CircularProgress size={24} /> : null}
     >
       Upload File
       <input

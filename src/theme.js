@@ -5,13 +5,21 @@ import { createTheme } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#556cd6',
+      contrastText: '#FFFFFF',
+      dark: '#0000C8',
+      light: '#7141FF',
+      main: '#0000FD',
     },
     secondary: {
-      main: '#19857b',
+      contrastText: 'rgba(0, 0, 94, 0.87)',
+      dark: '#BFCC13',
+      light: '#FFFF88c',
+      main: '#F5FF54',
     },
-    error: {
-      main: red.A400,
+    text: {
+      disabled: 'rgba(0, 0, 94, 0.26)',
+      primary: 'rgba(0, 0, 94, 0.87)',
+      secondary: 'rgba(0, 0, 94, 0.6)',
     },
   },
 });
