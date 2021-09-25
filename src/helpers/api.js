@@ -13,6 +13,7 @@ export const simulateNumbers = async (numbers = []) => {
       authorization: `Bearer ${AWA_ACCESS_TOKEN}`
     },
     json: numbers,
+    timeout: false,
     retry: {
       limit: 3,
       methods: ['post'],
