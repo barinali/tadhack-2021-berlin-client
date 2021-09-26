@@ -1,0 +1,8112 @@
+{
+  "202": {
+    "mcc": 202,
+    "countryName": "Greece",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Cosmote"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Cosmote"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "OTE Hellenic Telecommunications Organization SA"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Organismos Sidirodromon Ellados (OSE)"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "AMD Telecom SA"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Tim/Wind"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Tim/Wind"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "CyTa Mobile"
+      }
+    ]
+  },
+  "204": {
+    "mcc": 204,
+    "countryName": "Netherlands",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Tele2"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Voiceworks Mobile BV"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Vodafone Libertel"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Elephant Talk Communications Premium Rate Services Netherlands BV"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Mundio/Vectone Mobile"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Teleena Holding BV"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "KPN Telecom B.V."
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Lycamobile Ltd"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "KPN Telecom B.V."
+      },
+      {
+        "mnc": 12,
+        "carrierName": "KPN/Telfort"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "6GMOBILE BV"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Ziggo BV"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "T-Mobile B.V."
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Intercity Mobile Communications BV"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "UPC Nederland BV"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "T-mobile/former Orange"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "NS Railinfrabeheer B.V."
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Aspider Solutions"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Private Mobility Nederland BV"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "Lancelot BV"
+      },
+      {
+        "mnc": 68,
+        "carrierName": "Unify Mobile"
+      },
+      {
+        "mnc": 69,
+        "carrierName": "KPN Telecom B.V."
+      },
+      {
+        "mnc": 98,
+        "carrierName": "T-Mobile B.V."
+      }
+    ]
+  },
+  "206": {
+    "mcc": 206,
+    "countryName": "Belgium",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Belgacom/Proximus"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "SNCT/NMBS"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Telenet NV"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Lycamobile Belgium"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "VOO"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Mobistar/Orange"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Base/KPN"
+      }
+    ]
+  },
+  "208": {
+    "mcc": 208,
+    "countryName": "France",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Tel"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "MobiquiThings"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "SISTEER"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "GlobalStar"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "GlobalStar"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "GlobalStar"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "S.F.R."
+      },
+      {
+        "mnc": 10,
+        "carrierName": "S.F.R."
+      },
+      {
+        "mnc": 11,
+        "carrierName": "S.F.R."
+      },
+      {
+        "mnc": 13,
+        "carrierName": "S.F.R."
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Lliad/FREE Mobile"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Lliad/FREE Mobile"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Lliad/FREE Mobile"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Legos - Local Exchange Global Operation Services SA"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Bouygues Telecom"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "Bouygues Telecom"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Transatel SA"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Virgin Mobile/Omer"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "MobiquiThings"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Lycamobile SARL"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "NRJ"
+      },
+      {
+        "mnc": 27,
+        "carrierName": "AFONE SA"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "Astrium"
+      },
+      {
+        "mnc": 29,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 31,
+        "carrierName": "Mundio Mobile (France) Ltd"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Bouygues Telecom"
+      },
+      {
+        "mnc": 89,
+        "carrierName": "Virgin Mobile/Omer"
+      },
+      {
+        "mnc": 91,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 92,
+        "carrierName": "Association Plate-forme Telecom"
+      }
+    ]
+  },
+  "212": {
+    "mcc": 212,
+    "countryName": "Monaco",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Monaco Telecom"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Monaco Telecom"
+      }
+    ]
+  },
+  "213": {
+    "mcc": 213,
+    "countryName": "Andorra",
+    "carriers": [
+      {
+        "mnc": 3,
+        "carrierName": "Mobiland"
+      }
+    ]
+  },
+  "214": {
+    "mcc": 214,
+    "countryName": "Spain",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Yoigo"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Vodafone Enabler Espana SL"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Euskaltel SA"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "BT Espana SAU"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Telecable de Asturias SA"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "R Cable y Telec. Galicia SA"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "Cableuropa SAU (ONO)"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Simyo/KPN"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "fonYou Wireless SL"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "Jazz Telecom SAU"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Digi Spain Telecom SL"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Lycamobile SL"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Lycamobile SL"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "Lleida"
+      },
+      {
+        "mnc": 27,
+        "carrierName": "Truphone"
+      },
+      {
+        "mnc": 32,
+        "carrierName": "ION Mobile"
+      }
+    ]
+  },
+  "216": {
+    "mcc": 216,
+    "countryName": "Hungary",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Pannon/Telenor"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "DIGI"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "T-mobile/Magyar"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 71,
+        "carrierName": "UPC Magyarorszag Kft."
+      }
+    ]
+  },
+  "218": {
+    "mcc": 218,
+    "countryName": "Bosnia & Herzegov.",
+    "carriers": [
+      {
+        "mnc": 3,
+        "carrierName": "Eronet Mobile"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "M-Tel"
+      },
+      {
+        "mnc": 90,
+        "carrierName": "BH Mobile"
+      }
+    ]
+  },
+  "219": {
+    "mcc": 219,
+    "countryName": "Croatia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "T-Mobile/Cronet"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Tele2"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "VIPnet d.o.o."
+      }
+    ]
+  },
+  "220": {
+    "mcc": 220,
+    "countryName": "Serbia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telenor/Mobtel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Telenor/Mobtel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "MTS/Telekom Srbija"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "VIP Mobile"
+      }
+    ]
+  },
+  "221": {
+    "mcc": 221,
+    "countryName": "Kosovo",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vala"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "IPKO"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "MTS DOO"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Dardafon.Net LLC"
+      }
+    ]
+  },
+  "222": {
+    "mcc": 222,
+    "countryName": "Italy",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Fix Line/Premium Number(s)/VOIP Line"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "TIM"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Elsacom"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Noverca Italia Srl"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Fastweb SpA"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "RFI Rete Ferroviaria Italiana SpA"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "PosteMobile SpA"
+      },
+      {
+        "mnc": 34,
+        "carrierName": "BT Italia SpA"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "Lycamobile Srl"
+      },
+      {
+        "mnc": 36,
+        "carrierName": "Digi Mobil"
+      },
+      {
+        "mnc": 43,
+        "carrierName": "Telecom Italia Mobile SpA"
+      },
+      {
+        "mnc": 44,
+        "carrierName": "WIND (Blu) -"
+      },
+      {
+        "mnc": 48,
+        "carrierName": "Telecom Italia Mobile SpA"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Iliad"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "IPSE 2000"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "WIND (Blu) -"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Hi3G"
+      }
+    ]
+  },
+  "226": {
+    "mcc": 226,
+    "countryName": "Romania",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Romtelecom SA"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Telekom Romania"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Telekom Romania"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "RCS&RDS Digi Mobile"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Telekom Romania"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Enigma Systems"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Lycamobile"
+      }
+    ]
+  },
+  "228": {
+    "mcc": 228,
+    "countryName": "Switzerland",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Swisscom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TDC Sunrise"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Salt/Orange"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Comfone AG"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "TDC Sunrise"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "TDC Sunrise"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Comfone AG"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "TDC Sunrise"
+      },
+      {
+        "mnc": 51,
+        "carrierName": "BebbiCell AG"
+      },
+      {
+        "mnc": 52,
+        "carrierName": "Mundio Mobile AG"
+      },
+      {
+        "mnc": 53,
+        "carrierName": "upc cablecom GmbH"
+      },
+      {
+        "mnc": 54,
+        "carrierName": "Lycamobile AG"
+      },
+      {
+        "mnc": 58,
+        "carrierName": "Beeone"
+      }
+    ]
+  },
+  "230": {
+    "mcc": 230,
+    "countryName": "Czech Rep.",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "T-Mobile/RadioMobil"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "O2"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Ufone"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Travel Telekommunikation s.r.o."
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Compatel s.r.o."
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Vodafone"
+      }
+    ]
+  },
+  "231": {
+    "mcc": 231,
+    "countryName": "Slovakia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Swan/4Ka"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "O2"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Zeleznice Slovenskej republiky (ZSR)"
+      }
+    ]
+  },
+  "232": {
+    "mcc": 232,
+    "countryName": "Austria",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Fix Line"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "A1 MobilKom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "A1 MobilKom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "T-Mobile/Telering"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "T-Mobile/Telering"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "3/Orange/One Connect"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "3/Orange/One Connect"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "T-Mobile/Telering"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "A1 MobilKom"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "A1 MobilKom"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "H3G"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "A1 MobilKom"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "3/Orange/One Connect"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "T-Mobile/Telering"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "H3G"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "T-Mobile/Telering"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Spusu/Mass Response"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Tele2"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Mtel"
+      }
+    ]
+  },
+  "234": {
+    "mcc": 234,
+    "countryName": "United Kingdom",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "BT Group"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Mapesbury C. Ltd"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "O2 Ltd."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Airtel/Vodafone"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Cable and Wireless"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "OnePhone"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Tismi"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "O2 Ltd."
+      },
+      {
+        "mnc": 11,
+        "carrierName": "O2 Ltd."
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Railtrack Plc"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "HaySystems"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Opal Telecom"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "FlexTel"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "Cloud9/wire9 Tel."
+      },
+      {
+        "mnc": 19,
+        "carrierName": "PMN/Teleware"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "H3G Hutchinson"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Routotelecom"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Vectofone Mobile Wifi"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Stour Marine"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Truphone"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "Lycamobile"
+      },
+      {
+        "mnc": 27,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "Marthon Telecom"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Everyth. Ev.wh./T-Mobile"
+      },
+      {
+        "mnc": 31,
+        "carrierName": "Everyth. Ev.wh./T-Mobile"
+      },
+      {
+        "mnc": 32,
+        "carrierName": "Everyth. Ev.wh./T-Mobile"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "Everyth. Ev.wh./Orange"
+      },
+      {
+        "mnc": 34,
+        "carrierName": "Everyth. Ev.wh./Orange"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "JSC Ingenicum"
+      },
+      {
+        "mnc": 36,
+        "carrierName": "Cable and Wireless Isle of Man"
+      },
+      {
+        "mnc": 37,
+        "carrierName": "Synectiv Ltd."
+      },
+      {
+        "mnc": 38,
+        "carrierName": "Virgin Mobile"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Jersey Telecom"
+      },
+      {
+        "mnc": 51,
+        "carrierName": "Jersey Telecom"
+      },
+      {
+        "mnc": 55,
+        "carrierName": "Guernsey Telecoms"
+      },
+      {
+        "mnc": 57,
+        "carrierName": "Sky UK Limited"
+      },
+      {
+        "mnc": 58,
+        "carrierName": "Manx Telecom"
+      },
+      {
+        "mnc": 75,
+        "carrierName": "Inquam Telecom Ltd"
+      },
+      {
+        "mnc": 76,
+        "carrierName": "BT Group"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "BT Group"
+      },
+      {
+        "mnc": 78,
+        "carrierName": "Wave Telecom Ltd"
+      },
+      {
+        "mnc": 89,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 91,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 92,
+        "carrierName": "Cable and Wireless"
+      },
+      {
+        "mnc": 94,
+        "carrierName": "H3G Hutchinson"
+      },
+      {
+        "mnc": 999,
+        "carrierName": "FIX Line"
+      }
+    ]
+  },
+  "235": {
+    "mcc": 235,
+    "countryName": "United Kingdom",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Everyth. Ev.wh."
+      }
+    ]
+  },
+  "238": {
+    "mcc": 238,
+    "countryName": "Denmark",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "TDC Denmark"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Telenor/Sonofon"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Mach Connectivity ApS"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "NextGen Mobile Ltd (CardBoardFish)"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "ApS KBUS"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "H3G"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Mundio Mobile"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "TDC Denmark"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Lycamobile Ltd"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Telia"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Banedanmark"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "CoolTEL ApS"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Telia"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "Telenor/Sonofon"
+      }
+    ]
+  },
+  "240": {
+    "mcc": 240,
+    "countryName": "Sweden",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telia Mobile"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "H3G Access AB"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Netett Sverige AB"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "H3G Access AB"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Svenska UMTS-N"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Telenor (Vodafone)"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Tele2 Sverige AB"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Telenor (Vodafone)"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Spring Mobil AB"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Lindholmen Science Park AB"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Lycamobile Ltd"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Ventelo Sverige AB"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "TDC Sverige AB"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Wireless Maingate Nordic AB"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "42 Telecom AB"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Gotalandsnatet AB"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "Generic Mobile Systems Sweden AB"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Mundio Mobile (Sweden) Ltd"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Wireless Maingate AB"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Eu Tel AB"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Infobip Ltd."
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Telenor (Vodafone)"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Digitel Mobile Srl"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "Beepsend"
+      },
+      {
+        "mnc": 27,
+        "carrierName": "Fogg Mobile AB"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "CoolTEL Aps"
+      },
+      {
+        "mnc": 29,
+        "carrierName": "Mercury International Carrier Services"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "NextGen Mobile Ltd (CardBoardFish)"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "42 Telecom AB"
+      },
+      {
+        "mnc": 36,
+        "carrierName": "ID Mobile"
+      }
+    ]
+  },
+  "242": {
+    "mcc": 242,
+    "countryName": "Norway",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telenor"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Telia/Netcom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Teletopia"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Tele2"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Telia/Network Norway AS"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "ICE Nordisk Mobiltelefon AS"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Ventelo AS"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "TDC Mobil A/S"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Com4 AS"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Telenor"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "ICE Nordisk Mobiltelefon AS"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Ventelo AS"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Jernbaneverket (GSM-R)"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "Jernbaneverket (GSM-R)"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Telia/Network Norway AS"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Lycamobile Ltd"
+      }
+    ]
+  },
+  "244": {
+    "mcc": 244,
+    "countryName": "Finland",
+    "carriers": [
+      {
+        "mnc": 3,
+        "carrierName": "DNA/Finnet"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "DNA/Finnet"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Elisa/Saunalahti"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Nokia Oyj"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "TDC Oy Finland"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Mundio Mobile (Finland) Ltd"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "DNA/Finnet"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "DNA/Finnet"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Alands"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "Elisa/Saunalahti"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "Compatel Ltd"
+      },
+      {
+        "mnc": 82,
+        "carrierName": "ID-Mobile"
+      },
+      {
+        "mnc": 91,
+        "carrierName": "TeliaSonera"
+      }
+    ]
+  },
+  "246": {
+    "mcc": 246,
+    "countryName": "Lithuania",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Omnitel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Bite"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Tele2"
+      }
+    ]
+  },
+  "247": {
+    "mcc": 247,
+    "countryName": "Latvia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Latvian Mobile Phone"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Tele2"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "TRIATEL/Telekom Baltija"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Bite"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "SIA Rigatta"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "SIA Master Telecom"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "SIA IZZI"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "SIA Camel Mobile"
+      }
+    ]
+  },
+  "248": {
+    "mcc": 248,
+    "countryName": "Estonia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "EMT GSM"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Radiolinja Eesti"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Tele2 Eesti AS"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Top Connect OU"
+      }
+    ]
+  },
+  "250": {
+    "mcc": 250,
+    "countryName": "Russian Federation",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "MTS"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Megafon"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "NCC"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Sibchallenge"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Tele2/ECC/Volgogr."
+      },
+      {
+        "mnc": 7,
+        "carrierName": "ZAO SMARTS"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "DTC/Don Telecom"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Orensot"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Baykal Westcom"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Kuban GSM"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "ZAO SMARTS"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "NTC"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "UralTel"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "OJSC Altaysvyaz"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Tele2/ECC/Volgogr."
+      },
+      {
+        "mnc": 28,
+        "carrierName": "BeeLine/VimpelCom"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "MOTIV/LLC Ekaterinburg-2000"
+      },
+      {
+        "mnc": 39,
+        "carrierName": "UralTel"
+      },
+      {
+        "mnc": 44,
+        "carrierName": "StavTelesot"
+      },
+      {
+        "mnc": 92,
+        "carrierName": "Printelefone"
+      },
+      {
+        "mnc": 93,
+        "carrierName": "Telecom XXL"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "BeeLine/VimpelCom"
+      }
+    ]
+  },
+  "255": {
+    "mcc": 255,
+    "countryName": "Ukraine",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone/MTS"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Beeline"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "KyivStar"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Intertelecom Ltd (IT)"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Golden Telecom"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Astelit/LIFE"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "TriMob LLC"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "Telesystems Of Ukraine CJSC (TSU)"
+      },
+      {
+        "mnc": 39,
+        "carrierName": "Golden Telecom"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Vodafone/MTS"
+      },
+      {
+        "mnc": 67,
+        "carrierName": "KyivStar"
+      },
+      {
+        "mnc": 68,
+        "carrierName": "Beeline"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Phoenix"
+      }
+    ]
+  },
+  "257": {
+    "mcc": 257,
+    "countryName": "Belarus",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "MDC/Velcom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "MTS"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "BelCel JV"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "BeST"
+      }
+    ]
+  },
+  "259": {
+    "mcc": 259,
+    "countryName": "Moldova",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange/Voxtel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Moldcell"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "IDC/Unite"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Eventis Mobile"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "IDC/Unite"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "IDC/Unite"
+      }
+    ]
+  },
+  "260": {
+    "mcc": 260,
+    "countryName": "Poland",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Polkomtel/Plus"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "T-Mobile/ERA"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Orange/IDEA/Centertel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Aero2"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Orange/IDEA/Centertel"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Play/P4"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Play/P4"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "e-Telko"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Lycamobile"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Sferia"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "NORDISK Polska"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Cyfrowy POLSAT S.A."
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Sferia"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Sferia"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Aero2"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Mobyland"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Aero2 SP."
+      },
+      {
+        "mnc": 18,
+        "carrierName": "AMD Telecom."
+      },
+      {
+        "mnc": 34,
+        "carrierName": "T-Mobile/ERA"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "PKP Polskie Linie Kolejowe S.A."
+      },
+      {
+        "mnc": 36,
+        "carrierName": "Mundio Mobile Sp. z o.o."
+      },
+      {
+        "mnc": 38,
+        "carrierName": "CallFreedom Sp. z o.o."
+      },
+      {
+        "mnc": 45,
+        "carrierName": "Virgin Mobile"
+      },
+      {
+        "mnc": 98,
+        "carrierName": "Play/P4"
+      }
+    ]
+  },
+  "262": {
+    "mcc": 262,
+    "countryName": "Germany",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "T-mobile/Telekom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vodafone D2"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "E-Plus"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Vodafone D2"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "E-Plus"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "T-mobile/Telekom"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "O2"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "O2"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Vodafone D2"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "DB Netz AG"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "O2"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "E-Plus"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Mobilcom"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Group 3G UMTS"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Telogic/ViStream"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "E-Plus"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "E-Plus"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Sipgate"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "Sipgate"
+      },
+      {
+        "mnc": 42,
+        "carrierName": "Vodafone D2"
+      },
+      {
+        "mnc": 43,
+        "carrierName": "Lycamobile"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "E-Plus"
+      }
+    ]
+  },
+  "266": {
+    "mcc": 266,
+    "countryName": "Gibraltar",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Gibtel GSM"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "CTS Mobile"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "eazi telecom"
+      }
+    ]
+  },
+  "268": {
+    "mcc": 268,
+    "countryName": "Portugal",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "NOS/Optimus"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Lycamobile"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "MEO/TMN"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "NOS/Optimus"
+      }
+    ]
+  },
+  "270": {
+    "mcc": 270,
+    "countryName": "Luxembourg",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "P+T/Post LUXGSM"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "Millicom Tango GSM"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Orange/VOXmobile S.A."
+      }
+    ]
+  },
+  "272": {
+    "mcc": 272,
+    "countryName": "Ireland",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone Eircell"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Three"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Meteor Mobile Ltd."
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Access Telecom Ltd."
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Three"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "eircom Ltd"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Clever Communications Ltd"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Tesco Mobile/Liffey Telecom"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Lycamobile"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Virgin Mobile"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Three"
+      }
+    ]
+  },
+  "274": {
+    "mcc": 274,
+    "countryName": "Iceland",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Siminn"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vodafone/Tal hf"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Vodafone/Tal hf"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "VIKING/IMC"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Vodafone/Tal hf"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "IceCell"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Siminn"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Amitelo"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "NOVA"
+      }
+    ]
+  },
+  "276": {
+    "mcc": 276,
+    "countryName": "Albania",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "AMC/Cosmote"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Eagle Mobile"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "PLUS Communication Sh.a"
+      }
+    ]
+  },
+  "278": {
+    "mcc": 278,
+    "countryName": "Malta",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "GO Mobile"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "Melita"
+      }
+    ]
+  },
+  "280": {
+    "mcc": 280,
+    "countryName": "Cyprus",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone/CyTa"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "MTN/Areeba"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "PrimeTel PLC"
+      }
+    ]
+  },
+  "282": {
+    "mcc": 282,
+    "countryName": "Georgia",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Magti GSM Ltd."
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Geocell Ltd."
+      },
+      {
+        "mnc": 4,
+        "carrierName": "MobiTel/Beeline"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Silknet"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Iberiatel Ltd."
+      }
+    ]
+  },
+  "283": {
+    "mcc": 283,
+    "countryName": "Armenia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "ArmenTel/Beeline"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Karabakh Telecom"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Vivacell"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Orange"
+      }
+    ]
+  },
+  "284": {
+    "mcc": 284,
+    "countryName": "Bulgaria",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "MobilTel AD"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "BTC Mobile EOOD (vivatel)"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Telenor/Cosmo/Globul"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "BTC Mobile EOOD (vivatel)"
+      }
+    ]
+  },
+  "286": {
+    "mcc": 286,
+    "countryName": "Turkey",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Turkcell"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vodafone-Telsim"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "AVEA/Aria"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "AVEA/Aria"
+      }
+    ]
+  },
+  "288": {
+    "mcc": 288,
+    "countryName": "Faroe Islands",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Faroese Telecom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Kall GSM"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Edge Mobile Sp/F"
+      }
+    ]
+  },
+  "289": {
+    "mcc": 289,
+    "countryName": "Abkhazia",
+    "carriers": [
+      {
+        "mnc": 67,
+        "carrierName": "Aquafon"
+      },
+      {
+        "mnc": 68,
+        "carrierName": "A-Mobile"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "A-Mobile"
+      }
+    ]
+  },
+  "290": {
+    "mcc": 290,
+    "countryName": "Greenland",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Tele Greenland"
+      }
+    ]
+  },
+  "292": {
+    "mcc": 292,
+    "countryName": "San Marino",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Prima Telecom"
+      }
+    ]
+  },
+  "293": {
+    "mcc": 293,
+    "countryName": "Slovenia",
+    "carriers": [
+      {
+        "mnc": 10,
+        "carrierName": "Slovenske zeleznice d.o.o."
+      },
+      {
+        "mnc": 40,
+        "carrierName": "SI.Mobil"
+      },
+      {
+        "mnc": 41,
+        "carrierName": "Mobitel"
+      },
+      {
+        "mnc": 64,
+        "carrierName": "T-2 d.o.o."
+      },
+      {
+        "mnc": 70,
+        "carrierName": "Telemach/TusMobil/VEGA"
+      }
+    ]
+  },
+  "294": {
+    "mcc": 294,
+    "countryName": "Macedonia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "T-Mobile/Mobimak"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "ONE/Cosmofone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "VIP Mobile"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Lycamobile"
+      },
+      {
+        "mnc": 75,
+        "carrierName": "ONE/Cosmofone"
+      }
+    ]
+  },
+  "295": {
+    "mcc": 295,
+    "countryName": "Liechtenstein",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Swisscom FL AG"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Telecom FL1 AG"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "CUBIC (Liechtenstein"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "First Mobile AG"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "Alpmobile/Tele2"
+      }
+    ]
+  },
+  "297": {
+    "mcc": 297,
+    "countryName": "Montenegro",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telenor/Promonte GSM"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Monet/T-mobile"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Mtel"
+      }
+    ]
+  },
+  "302": {
+    "mcc": 302,
+    "countryName": "Canada",
+    "carriers": [
+      {
+        "mnc": 220,
+        "carrierName": "Telus Mobility"
+      },
+      {
+        "mnc": 320,
+        "carrierName": "mobilicity"
+      },
+      {
+        "mnc": 360,
+        "carrierName": "Clearnet"
+      },
+      {
+        "mnc": 361,
+        "carrierName": "Clearnet"
+      },
+      {
+        "mnc": 370,
+        "carrierName": "FIDO (Rogers AT&T/Microcell)"
+      },
+      {
+        "mnc": 380,
+        "carrierName": "DMTS Mobility"
+      },
+      {
+        "mnc": 490,
+        "carrierName": "WIND"
+      },
+      {
+        "mnc": 500,
+        "carrierName": "Videotron"
+      },
+      {
+        "mnc": 610,
+        "carrierName": "Bell Mobility"
+      },
+      {
+        "mnc": 630,
+        "carrierName": "Bell Aliant"
+      },
+      {
+        "mnc": 640,
+        "carrierName": "Latitude Wireless"
+      },
+      {
+        "mnc": 651,
+        "carrierName": "Bell Mobility"
+      },
+      {
+        "mnc": 652,
+        "carrierName": "BC Tel Mobility"
+      },
+      {
+        "mnc": 653,
+        "carrierName": "Telus Mobility"
+      },
+      {
+        "mnc": 654,
+        "carrierName": "Sask Tel Mobility"
+      },
+      {
+        "mnc": 655,
+        "carrierName": "MTS Mobility"
+      },
+      {
+        "mnc": 656,
+        "carrierName": "Tbay Mobility"
+      },
+      {
+        "mnc": 657,
+        "carrierName": "Quebectel Mobility"
+      },
+      {
+        "mnc": 660,
+        "carrierName": "MTS Mobility"
+      },
+      {
+        "mnc": 670,
+        "carrierName": "CityWest Mobility"
+      },
+      {
+        "mnc": 680,
+        "carrierName": "Sask Tel Mobility"
+      },
+      {
+        "mnc": 701,
+        "carrierName": "NB Tel Mobility"
+      },
+      {
+        "mnc": 702,
+        "carrierName": "MT&T Mobility"
+      },
+      {
+        "mnc": 703,
+        "carrierName": "New Tel Mobility"
+      },
+      {
+        "mnc": 710,
+        "carrierName": "Globalstar Canada"
+      },
+      {
+        "mnc": 720,
+        "carrierName": "Rogers AT&T Wireless"
+      },
+      {
+        "mnc": 760,
+        "carrierName": "Public Mobile"
+      },
+      {
+        "mnc": 780,
+        "carrierName": "Sask Tel Mobility"
+      }
+    ]
+  },
+  "308": {
+    "mcc": 308,
+    "countryName": "St. Pierre & Miquelon",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Ameris"
+      }
+    ]
+  },
+  "310": {
+    "mcc": 310,
+    "countryName": "United States",
+    "carriers": [
+      {
+        "mnc": 15,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Union Telephone Co."
+      },
+      {
+        "mnc": 170,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 530,
+        "carrierName": "West Virginia Wireless"
+      },
+      {
+        "mnc": 200,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 700,
+        "carrierName": "Cross Valliant Cellular Partnership"
+      },
+      {
+        "mnc": 500,
+        "carrierName": "Public Service Cellular Inc."
+      },
+      {
+        "mnc": 660,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 490,
+        "carrierName": "Triton PCS"
+      },
+      {
+        "mnc": 710,
+        "carrierName": "Arctic Slope Telephone Association Cooperative Inc."
+      },
+      {
+        "mnc": 580,
+        "carrierName": "PCS ONE"
+      },
+      {
+        "mnc": 590,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 870,
+        "carrierName": "Kaplan Telephone Company Inc."
+      },
+      {
+        "mnc": 240,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 260,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 60,
+        "carrierName": "Consolidated Telcom"
+      },
+      {
+        "mnc": 750,
+        "carrierName": "East Kentucky Network LLC"
+      },
+      {
+        "mnc": 980,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 610,
+        "carrierName": "Elkhart TelCo./Epic Touch Co."
+      },
+      {
+        "mnc": 430,
+        "carrierName": "GCI Communication Corp."
+      },
+      {
+        "mnc": 910,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 999,
+        "carrierName": "Various Networks"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Consolidated Telcom"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Northstar"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Testing"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Leap Wireless International Inc."
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "/Unknown"
+      },
+      {
+        "mnc": 30,
+        "carrierName": ""
+      },
+      {
+        "mnc": 31,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 32,
+        "carrierName": "IT&E OverSeas"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "Guam Teleph. Auth."
+      },
+      {
+        "mnc": 34,
+        "carrierName": "Nevada Wireless LLC"
+      },
+      {
+        "mnc": 38,
+        "carrierName": "USA 3650 AT&T"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "Matanuska Tel. Assn. Inc."
+      },
+      {
+        "mnc": 46,
+        "carrierName": "SIMMETRY"
+      },
+      {
+        "mnc": 50,
+        "carrierName": ""
+      },
+      {
+        "mnc": 70,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 80,
+        "carrierName": ""
+      },
+      {
+        "mnc": 90,
+        "carrierName": "Edge Wireless LLC"
+      },
+      {
+        "mnc": 100,
+        "carrierName": "Plateau Telecommunications Inc."
+      },
+      {
+        "mnc": 120,
+        "carrierName": "Sprint Spectrum"
+      },
+      {
+        "mnc": 130,
+        "carrierName": "North Carolina RSA 3 Cellular Tel. Co."
+      },
+      {
+        "mnc": 140,
+        "carrierName": "GTA Wireless"
+      },
+      {
+        "mnc": 360,
+        "carrierName": "Cellular Network Partnership LLC"
+      },
+      {
+        "mnc": 880,
+        "carrierName": ""
+      },
+      {
+        "mnc": 380,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 180,
+        "carrierName": "Cingular Wireless"
+      },
+      {
+        "mnc": 410,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 210,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 540,
+        "carrierName": ""
+      },
+      {
+        "mnc": 730,
+        "carrierName": "United States Cellular Corp."
+      },
+      {
+        "mnc": 690,
+        "carrierName": "Keystone Wireless LLC"
+      },
+      {
+        "mnc": 310,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 390,
+        "carrierName": "Yorkville Telephone Cooperative"
+      },
+      {
+        "mnc": 270,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 970,
+        "carrierName": ""
+      },
+      {
+        "mnc": 770,
+        "carrierName": "Iowa Wireless Services LLC"
+      },
+      {
+        "mnc": 470,
+        "carrierName": "Docomo"
+      },
+      {
+        "mnc": 670,
+        "carrierName": "Northstar"
+      },
+      {
+        "mnc": 460,
+        "carrierName": "TMP Corporation"
+      },
+      {
+        "mnc": 800,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 230,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 150,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 370,
+        "carrierName": "Docomo"
+      },
+      {
+        "mnc": 450,
+        "carrierName": "Northeast Colorado Cellular Inc."
+      },
+      {
+        "mnc": 790,
+        "carrierName": ""
+      },
+      {
+        "mnc": 630,
+        "carrierName": ""
+      },
+      {
+        "mnc": 990,
+        "carrierName": "E.N.M.R. Telephone Coop."
+      },
+      {
+        "mnc": 680,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 600,
+        "carrierName": "New-Cell Inc."
+      },
+      {
+        "mnc": 940,
+        "carrierName": "Poka Lambro Telco Ltd."
+      },
+      {
+        "mnc": 570,
+        "carrierName": "MTPCS LLC"
+      },
+      {
+        "mnc": 900,
+        "carrierName": "Cable & Communications Corp."
+      },
+      {
+        "mnc": 290,
+        "carrierName": "NEP Cellcorp Inc."
+      },
+      {
+        "mnc": 220,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 760,
+        "carrierName": "Panhandle Telephone Cooperative Inc."
+      },
+      {
+        "mnc": 320,
+        "carrierName": "Smith Bagley Inc."
+      },
+      {
+        "mnc": 420,
+        "carrierName": "Cincinnati Bell Wireless LLC"
+      },
+      {
+        "mnc": 890,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 860,
+        "carrierName": "Texas RSA 15B2 Limited Partnership"
+      },
+      {
+        "mnc": 960,
+        "carrierName": "Uintah Basin Electronics Telecommunications Inc."
+      },
+      {
+        "mnc": 160,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 190,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 250,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 280,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 300,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 330,
+        "carrierName": "T-Mobile"
+      },
+      {
+        "mnc": 340,
+        "carrierName": "Westlink Communications, LLC"
+      },
+      {
+        "mnc": 350,
+        "carrierName": "Mohave Cellular LP"
+      },
+      {
+        "mnc": 930,
+        "carrierName": ""
+      },
+      {
+        "mnc": 560,
+        "carrierName": "AT&T Wireless Inc."
+      },
+      {
+        "mnc": 400,
+        "carrierName": "Minnesota South. Wirel. Co./Hickory"
+      },
+      {
+        "mnc": 440,
+        "carrierName": "Dobson Cellular Systems"
+      },
+      {
+        "mnc": 480,
+        "carrierName": "Choice Phone LLC"
+      },
+      {
+        "mnc": 510,
+        "carrierName": "Airtel Wireless LLC"
+      },
+      {
+        "mnc": 520,
+        "carrierName": "VeriSign"
+      },
+      {
+        "mnc": 620,
+        "carrierName": "Coleman County Telco/Trans TX"
+      },
+      {
+        "mnc": 640,
+        "carrierName": ""
+      },
+      {
+        "mnc": 650,
+        "carrierName": "Jasper"
+      },
+      {
+        "mnc": 740,
+        "carrierName": "Telemetrix Inc."
+      },
+      {
+        "mnc": 780,
+        "carrierName": "Message Express Co./Airlink PCS"
+      },
+      {
+        "mnc": 830,
+        "carrierName": "Caprock Cellular Ltd."
+      },
+      {
+        "mnc": 850,
+        "carrierName": "Aeris Comm. Inc."
+      },
+      {
+        "mnc": 920,
+        "carrierName": "Get Mobile Inc."
+      },
+      {
+        "mnc": 950,
+        "carrierName": "Unknown"
+      }
+    ]
+  },
+  "311": {
+    "mcc": 311,
+    "countryName": "United States",
+    "carriers": [
+      {
+        "mnc": 273,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 830,
+        "carrierName": "Thumb Cellular Limited Partnership"
+      },
+      {
+        "mnc": 910,
+        "carrierName": ""
+      },
+      {
+        "mnc": 70,
+        "carrierName": "Wisconsin RSA #7 Limited Partnership"
+      },
+      {
+        "mnc": 430,
+        "carrierName": "RSA 1 Limited Partnership"
+      },
+      {
+        "mnc": 480,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 288,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 80,
+        "carrierName": ""
+      },
+      {
+        "mnc": 271,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 481,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 275,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 40,
+        "carrierName": ""
+      },
+      {
+        "mnc": 286,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 272,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 274,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 390,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 276,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 670,
+        "carrierName": "Pine Belt Cellular, Inc."
+      },
+      {
+        "mnc": 283,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 350,
+        "carrierName": "Sagebrush Cellular Inc."
+      },
+      {
+        "mnc": 710,
+        "carrierName": "Northeast Wireless Networks LLC"
+      },
+      {
+        "mnc": 287,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Missouri RSA No 5 Partnership"
+      },
+      {
+        "mnc": 210,
+        "carrierName": ""
+      },
+      {
+        "mnc": 330,
+        "carrierName": "Michigan Wireless LLC"
+      },
+      {
+        "mnc": 279,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 190,
+        "carrierName": ""
+      },
+      {
+        "mnc": 100,
+        "carrierName": ""
+      },
+      {
+        "mnc": 170,
+        "carrierName": "PetroCom"
+      },
+      {
+        "mnc": 284,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 440,
+        "carrierName": "Bluegrass Wireless LLC"
+      },
+      {
+        "mnc": 240,
+        "carrierName": ""
+      },
+      {
+        "mnc": 270,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 281,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 282,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 380,
+        "carrierName": ""
+      },
+      {
+        "mnc": 220,
+        "carrierName": "United States Cellular Corp."
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Thumb Cellular Limited Partnership"
+      },
+      {
+        "mnc": 370,
+        "carrierName": "GCI Communication Corp."
+      },
+      {
+        "mnc": 289,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 420,
+        "carrierName": "Northwest Missouri Cellular Limited Partnership"
+      },
+      {
+        "mnc": 285,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 30,
+        "carrierName": ""
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Missouri RSA No 5 Partnership"
+      },
+      {
+        "mnc": 278,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 250,
+        "carrierName": "Wave Runner LLC"
+      },
+      {
+        "mnc": 340,
+        "carrierName": "Illinois Valley Cellular RSA 2 Partnership"
+      },
+      {
+        "mnc": 277,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 870,
+        "carrierName": "Sprint Spectrum"
+      },
+      {
+        "mnc": 310,
+        "carrierName": "Lamar County Cellular"
+      },
+      {
+        "mnc": 482,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 280,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 485,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 490,
+        "carrierName": "Sprint Spectrum"
+      },
+      {
+        "mnc": 650,
+        "carrierName": "United Wireless Communications Inc."
+      },
+      {
+        "mnc": 487,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 660,
+        "carrierName": ""
+      },
+      {
+        "mnc": 880,
+        "carrierName": "Sprint Spectrum"
+      },
+      {
+        "mnc": 410,
+        "carrierName": "Iowa RSA No. 2 Limited Partnership"
+      },
+      {
+        "mnc": 740,
+        "carrierName": ""
+      },
+      {
+        "mnc": 920,
+        "carrierName": "Missouri RSA No 5 Partnership"
+      },
+      {
+        "mnc": 489,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 500,
+        "carrierName": "Cambridge Telephone Company Inc."
+      },
+      {
+        "mnc": 810,
+        "carrierName": "Bluegrass Wireless LLC"
+      },
+      {
+        "mnc": 730,
+        "carrierName": ""
+      },
+      {
+        "mnc": 860,
+        "carrierName": "Uintah Basin Electronics Telecommunications Inc."
+      },
+      {
+        "mnc": 484,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 610,
+        "carrierName": "North Dakota Network Company"
+      },
+      {
+        "mnc": 483,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 488,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 486,
+        "carrierName": "Verizon Wireless"
+      },
+      {
+        "mnc": 800,
+        "carrierName": "Bluegrass Wireless LLC"
+      }
+    ]
+  },
+  "312": {
+    "mcc": 312,
+    "countryName": "United States",
+    "carriers": [
+      {
+        "mnc": 270,
+        "carrierName": "Cellular Network Partnership LLC"
+      },
+      {
+        "mnc": 120,
+        "carrierName": "East Kentucky Network LLC"
+      },
+      {
+        "mnc": 220,
+        "carrierName": "Missouri RSA No 5 Partnership"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "Custer Telephone Cooperative Inc."
+      },
+      {
+        "mnc": 160,
+        "carrierName": "RSA 1 Limited Partnership"
+      },
+      {
+        "mnc": 380,
+        "carrierName": ""
+      },
+      {
+        "mnc": 180,
+        "carrierName": "Keystone Wireless LLC"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Cross Wireless Telephone Co."
+      }
+    ]
+  },
+  "316": {
+    "mcc": 316,
+    "countryName": "United States",
+    "carriers": [
+      {
+        "mnc": 11,
+        "carrierName": "Southern Communications Services Inc."
+      }
+    ]
+  },
+  "330": {
+    "mcc": 330,
+    "countryName": "Puerto Rico",
+    "carriers": [
+      {
+        "mnc": 11,
+        "carrierName": "Puerto Rico Telephone Company Inc. (PRTC)"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "Puerto Rico Telephone Company Inc. (PRTC)"
+      }
+    ]
+  },
+  "334": {
+    "mcc": 334,
+    "countryName": "Mexico",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "NEXTEL"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TelCel/America Movil"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Movistar/Pegaso"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "AT&T/IUSACell"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "AT&T/IUSACell"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "NEXTEL"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "NEXTEL"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "TelCel/America Movil"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Movistar/Pegaso"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "AT&T/IUSACell"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "AT&T/IUSACell"
+      },
+      {
+        "mnc": 60,
+        "carrierName": "SAI PCS"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "Operadora Unefon SA de CV"
+      },
+      {
+        "mnc": 80,
+        "carrierName": "Operadora Unefon SA de CV"
+      },
+      {
+        "mnc": 90,
+        "carrierName": "NEXTEL"
+      }
+    ]
+  },
+  "338": {
+    "mcc": 338,
+    "countryName": "Jamaica",
+    "carriers": [
+      {
+        "mnc": 20,
+        "carrierName": "Cable & Wireless"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "DIGICEL/Mossel"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "Cable & Wireless"
+      },
+      {
+        "mnc": 180,
+        "carrierName": "Cable & Wireless"
+      }
+    ]
+  },
+  "340": {
+    "mcc": 340,
+    "countryName": "French Guiana",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange Caribe"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Outremer Telecom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "TelCell GSM"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Dauphin Telecom SU (Guadeloupe Telecom)"
+      },
+      {
+        "mnc": 10,
+        "carrierName": ""
+      },
+      {
+        "mnc": 11,
+        "carrierName": "TelCell GSM"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "UTS Caraibe"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Bouygues/DigiCel"
+      }
+    ]
+  },
+  "342": {
+    "mcc": 342,
+    "countryName": "Barbados",
+    "carriers": [
+      {
+        "mnc": 50,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 600,
+        "carrierName": "LIME"
+      },
+      {
+        "mnc": 750,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 810,
+        "carrierName": "Cingular Wireless"
+      },
+      {
+        "mnc": 820,
+        "carrierName": "Sunbeach"
+      }
+    ]
+  },
+  "344": {
+    "mcc": 344,
+    "countryName": "Antigua and Barbuda",
+    "carriers": [
+      {
+        "mnc": 30,
+        "carrierName": "APUA PCS"
+      },
+      {
+        "mnc": 920,
+        "carrierName": "C & W"
+      },
+      {
+        "mnc": 930,
+        "carrierName": "DigiCel/Cing. Wireless"
+      }
+    ]
+  },
+  "346": {
+    "mcc": 346,
+    "countryName": "Cayman Islands",
+    "carriers": [
+      {
+        "mnc": 6,
+        "carrierName": "Digicel Ltd."
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Digicel Cayman Ltd"
+      },
+      {
+        "mnc": 140,
+        "carrierName": "LIME/Cable & Wirel."
+      }
+    ]
+  },
+  "348": {
+    "mcc": 348,
+    "countryName": "British Virgin Islands",
+    "carriers": [
+      {
+        "mnc": 170,
+        "carrierName": "LIME"
+      },
+      {
+        "mnc": 570,
+        "carrierName": "Caribbean Cellular"
+      },
+      {
+        "mnc": 770,
+        "carrierName": "Digicel"
+      }
+    ]
+  },
+  "350": {
+    "mcc": 350,
+    "countryName": "Bermuda",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Bermuda Digital Communications Ltd (BDC)"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Telecommunications (Bermuda & West Indies) Ltd (Digicel Bermuda)"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "M3 Wireless Ltd"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "DigiCel/Cingular"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "CellOne Ltd"
+      }
+    ]
+  },
+  "352": {
+    "mcc": 352,
+    "countryName": "Grenada",
+    "carriers": [
+      {
+        "mnc": 30,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "Cable & Wireless"
+      }
+    ]
+  },
+  "354": {
+    "mcc": 354,
+    "countryName": "Montserrat",
+    "carriers": [
+      {
+        "mnc": 860,
+        "carrierName": "Cable & Wireless"
+      }
+    ]
+  },
+  "356": {
+    "mcc": 356,
+    "countryName": "Saint Kitts and Nevis",
+    "carriers": [
+      {
+        "mnc": 50,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "UTS Cariglobe"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "Cable & Wireless"
+      }
+    ]
+  },
+  "358": {
+    "mcc": 358,
+    "countryName": "Saint Lucia",
+    "carriers": [
+      {
+        "mnc": 30,
+        "carrierName": "Cingular Wireless"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Digicel (St Lucia) Limited"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "Cable & Wireless"
+      }
+    ]
+  },
+  "360": {
+    "mcc": 360,
+    "countryName": "St. Vincent & Gren.",
+    "carriers": [
+      {
+        "mnc": 10,
+        "carrierName": "Cingular"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 100,
+        "carrierName": "Cingular"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "C & W"
+      }
+    ]
+  },
+  "362": {
+    "mcc": 362,
+    "countryName": "Netherlands Antilles",
+    "carriers": [
+      {
+        "mnc": 51,
+        "carrierName": "TELCELL GSM"
+      },
+      {
+        "mnc": 69,
+        "carrierName": "Polycom N.V./Digicel"
+      },
+      {
+        "mnc": 91,
+        "carrierName": "SETEL GSM"
+      },
+      {
+        "mnc": 95,
+        "carrierName": "EOCG Wireless NV"
+      },
+      {
+        "mnc": 630,
+        "carrierName": "Cingular Wireless"
+      },
+      {
+        "mnc": 951,
+        "carrierName": "UTS Wireless"
+      }
+    ]
+  },
+  "363": {
+    "mcc": 363,
+    "countryName": "Aruba",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Setar GSM"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Digicel"
+      }
+    ]
+  },
+  "364": {
+    "mcc": 364,
+    "countryName": "Bahamas",
+    "carriers": [
+      {
+        "mnc": 3,
+        "carrierName": "Smart Communications"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Bahamas Telco. Comp."
+      },
+      {
+        "mnc": 39,
+        "carrierName": "Bahamas Telco. Comp."
+      },
+      {
+        "mnc": 390,
+        "carrierName": "Bahamas Telco. Comp."
+      },
+      {
+        "mnc": 490,
+        "carrierName": "Aliv/Cable Bahamas"
+      }
+    ]
+  },
+  "365": {
+    "mcc": 365,
+    "countryName": "Anguilla",
+    "carriers": [
+      {
+        "mnc": 10,
+        "carrierName": "Digicell/Wireless Vent. Ltd"
+      },
+      {
+        "mnc": 840,
+        "carrierName": "Cable and Wireless"
+      }
+    ]
+  },
+  "366": {
+    "mcc": 366,
+    "countryName": "Dominica",
+    "carriers": [
+      {
+        "mnc": 20,
+        "carrierName": "Cingular Wireless/Digicel"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Wireless Ventures (Dominica) Ltd (Digicel Dominica)"
+      },
+      {
+        "mnc": 110,
+        "carrierName": "C & W"
+      }
+    ]
+  },
+  "368": {
+    "mcc": 368,
+    "countryName": "Cuba",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "CubaCel/C-COM"
+      }
+    ]
+  },
+  "370": {
+    "mcc": 370,
+    "countryName": "Dominican Republic",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "TRIcom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Claro"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Viva"
+      }
+    ]
+  },
+  "372": {
+    "mcc": 372,
+    "countryName": "Haiti",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "National Telecom SA (NatCom)"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Comcel"
+      }
+    ]
+  },
+  "374": {
+    "mcc": 374,
+    "countryName": "Trinidad and Tobago",
+    "carriers": [
+      {
+        "mnc": 12,
+        "carrierName": "Bmobile/TSTT"
+      },
+      {
+        "mnc": 120,
+        "carrierName": "Bmobile/TSTT"
+      },
+      {
+        "mnc": 130,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 140,
+        "carrierName": "LaqTel Ltd."
+      }
+    ]
+  },
+  "376": {
+    "mcc": 376,
+    "countryName": "Turks and Caicos Islands",
+    "carriers": [
+      {
+        "mnc": 50,
+        "carrierName": "Digicel TCI Ltd/Digicel"
+      },
+      {
+        "mnc": 350,
+        "carrierName": "Cable & Wireless (TCI) Ltd"
+      },
+      {
+        "mnc": 352,
+        "carrierName": "IslandCom Communications Ltd."
+      }
+    ]
+  },
+  "400": {
+    "mcc": 400,
+    "countryName": "Azerbaijan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Azercell Telekom B.M."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "J.V. Bakcell GSM 2000"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "CATEL"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Azerfon."
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Naxtel"
+      }
+    ]
+  },
+  "401": {
+    "mcc": 401,
+    "countryName": "Kazakhstan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Beeline/KaR-Tel LLP"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "K-Cell"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Dalacom/Altel"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "Tele2/NEO/MTS"
+      }
+    ]
+  },
+  "402": {
+    "mcc": 402,
+    "countryName": "Bhutan",
+    "carriers": [
+      {
+        "mnc": 11,
+        "carrierName": "B-Mobile"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Bhutan Telecom Ltd (BTL)"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "TashiCell"
+      }
+    ]
+  },
+  "404": {
+    "mcc": 404,
+    "countryName": "India",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Aircel Digilink India"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Idea Cellular Ltd."
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Fascel"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Idea Cellular Ltd."
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Reliance Telecom Private"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Bharti Airtel Limited (Delhi)"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Sterling Cellular Ltd."
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Escotel Mobile Communications"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Barakhamba Sales & Serv."
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Spice"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Aircel Digilink India"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Hexcom India"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Aircel"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "Reliance Telecom Private"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Escotel Mobile Communications"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Idea Cellular Ltd."
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Idea Cellular Ltd."
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Aircel"
+      },
+      {
+        "mnc": 27,
+        "carrierName": "Unknown"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "Aircel"
+      },
+      {
+        "mnc": 29,
+        "carrierName": "Aircel"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Usha Martin Telecom"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "Aircel"
+      },
+      {
+        "mnc": 34,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 36,
+        "carrierName": "Reliance Telecom Private"
+      },
+      {
+        "mnc": 38,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 41,
+        "carrierName": "RPG Cellular"
+      },
+      {
+        "mnc": 42,
+        "carrierName": "Aircel"
+      },
+      {
+        "mnc": 43,
+        "carrierName": "Vodafone/Essar/Hutch"
+      },
+      {
+        "mnc": 44,
+        "carrierName": "Spice"
+      },
+      {
+        "mnc": 45,
+        "carrierName": "Bharti Airtel Limited (Karnataka) (India)"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Reliance Telecom Private"
+      },
+      {
+        "mnc": 51,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 52,
+        "carrierName": "Reliance Telecom Private"
+      },
+      {
+        "mnc": 53,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 54,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 55,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 56,
+        "carrierName": "Escotel Mobile Communications"
+      },
+      {
+        "mnc": 57,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 58,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 59,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 60,
+        "carrierName": "Aircel Digilink India"
+      },
+      {
+        "mnc": 62,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 64,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 66,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 67,
+        "carrierName": "Reliance Telecom Private"
+      },
+      {
+        "mnc": 68,
+        "carrierName": "Mahanagar Telephone Nigam"
+      },
+      {
+        "mnc": 69,
+        "carrierName": "Mahanagar Telephone Nigam"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "Hexacom India"
+      },
+      {
+        "mnc": 71,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 72,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 73,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 74,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 75,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 76,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 78,
+        "carrierName": "Idea Cellular Ltd."
+      },
+      {
+        "mnc": 79,
+        "carrierName": "CellOne A&N"
+      },
+      {
+        "mnc": 80,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 81,
+        "carrierName": "BSNL"
+      },
+      {
+        "mnc": 82,
+        "carrierName": "Escorts Telecom Ltd."
+      },
+      {
+        "mnc": 83,
+        "carrierName": "Reliable Internet Services"
+      },
+      {
+        "mnc": 85,
+        "carrierName": "Reliance Telecom Private"
+      },
+      {
+        "mnc": 86,
+        "carrierName": "Barakhamba Sales & Serv."
+      },
+      {
+        "mnc": 87,
+        "carrierName": "Escorts Telecom Ltd."
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Escorts Telecom Ltd."
+      },
+      {
+        "mnc": 89,
+        "carrierName": "Escorts Telecom Ltd."
+      },
+      {
+        "mnc": 998,
+        "carrierName": "Fix Line"
+      },
+      {
+        "mnc": 999,
+        "carrierName": "Various Networks"
+      }
+    ]
+  },
+  "405": {
+    "mcc": 405,
+    "countryName": "India",
+    "carriers": [
+      {
+        "mnc": 53,
+        "carrierName": "AirTel"
+      },
+      {
+        "mnc": 34,
+        "carrierName": "TATA/Karnataka"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Fascel Limited"
+      }
+    ]
+  },
+  "410": {
+    "mcc": 410,
+    "countryName": "Pakistan",
+    "carriers": [
+      {
+        "mnc": 8,
+        "carrierName": "Instaphone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "UFONE/PAKTel"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Telenor"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "ZONG/CMPak"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Warid Telecom"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Mobilink"
+      }
+    ]
+  },
+  "412": {
+    "mcc": 412,
+    "countryName": "Afghanistan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Afghan Wireless/AWCC"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "WaselTelecom (WT)"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Roshan/TDCA"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Etisalat"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "Areeba/MTN"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Etisalat"
+      },
+      {
+        "mnc": 80,
+        "carrierName": "Afghan Telecom Corp. (AT)"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Afghan Telecom Corp. (AT)"
+      }
+    ]
+  },
+  "413": {
+    "mcc": 413,
+    "countryName": "Sri Lanka",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Mobitel Ltd."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "MTN/Dialog"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Etisalat/Tigo"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Airtel"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "H3G Hutchison"
+      }
+    ]
+  },
+  "414": {
+    "mcc": 414,
+    "countryName": "Myanmar (Burma)",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Myanmar Post & Teleco."
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Oreedoo"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Telenor"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Mytel (Myanmar"
+      }
+    ]
+  },
+  "415": {
+    "mcc": 415,
+    "countryName": "Lebanon",
+    "carriers": [
+      {
+        "mnc": 3,
+        "carrierName": "MIC2/LibanCell/MTC"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "MIC1 (Alfa)"
+      },
+      {
+        "mnc": 32,
+        "carrierName": "Cellis"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "Cellis"
+      },
+      {
+        "mnc": 34,
+        "carrierName": "FTML Cellis"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "Cellis"
+      },
+      {
+        "mnc": 36,
+        "carrierName": "MIC2/LibanCell/MTC"
+      },
+      {
+        "mnc": 37,
+        "carrierName": "MIC2/LibanCell/MTC"
+      },
+      {
+        "mnc": 38,
+        "carrierName": "MIC2/LibanCell/MTC"
+      },
+      {
+        "mnc": 39,
+        "carrierName": "MIC2/LibanCell/MTC"
+      }
+    ]
+  },
+  "416": {
+    "mcc": 416,
+    "countryName": "Jordan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "ZAIN/J.M.T.S"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Xpress"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Umniah Mobile Co."
+      },
+      {
+        "mnc": 77,
+        "carrierName": "Orange/Petra"
+      }
+    ]
+  },
+  "417": {
+    "mcc": 417,
+    "countryName": "Syrian Arab Republic",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Syriatel Holdings"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "MTN/Spacetel"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Syriatel Holdings"
+      }
+    ]
+  },
+  "418": {
+    "mcc": 418,
+    "countryName": "Iraq",
+    "carriers": [
+      {
+        "mnc": 5,
+        "carrierName": "Asia Cell"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Sanatel"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "ZAIN/Atheer/Orascom"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Orascom Telecom"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "Korek"
+      },
+      {
+        "mnc": 45,
+        "carrierName": "Mobitel (Iraq-Kurdistan) and Moutiny"
+      },
+      {
+        "mnc": 66,
+        "carrierName": "Fastlink"
+      },
+      {
+        "mnc": 82,
+        "carrierName": "Korek"
+      },
+      {
+        "mnc": 92,
+        "carrierName": "Itisaluna and Kalemat"
+      }
+    ]
+  },
+  "419": {
+    "mcc": 419,
+    "countryName": "Kuwait",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Zain"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Ooredoo"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Viva"
+      }
+    ]
+  },
+  "420": {
+    "mcc": 420,
+    "countryName": "Saudi Arabia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "STC/Al Jawal"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Etihad/Etisalat/Mobily"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Zain"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Virgin Mobile"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Lebara Mobile"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Zain"
+      }
+    ]
+  },
+  "421": {
+    "mcc": 421,
+    "countryName": "Yemen",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Sabaphone"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "MTN/Spacetel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Yemen Mob. CDMA"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "HITS/Y Unitel"
+      }
+    ]
+  },
+  "422": {
+    "mcc": 422,
+    "countryName": "Oman",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Oman Mobile/GTO"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Nawras"
+      }
+    ]
+  },
+  "424": {
+    "mcc": 424,
+    "countryName": "United Arab Emirates",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Etisalat"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "DU"
+      }
+    ]
+  },
+  "425": {
+    "mcc": 425,
+    "countryName": "Israel",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange/Partner Co. Ltd."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Cellcom ltd."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Pelephone"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Jawwal"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Wataniya Mobile"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Hot Mobile/Mirs"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Golan Telekom"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "We4G/Marathon 018"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Pelephone"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Alon Cellular Ltd"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Home Cellular Ltd"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Rami Levy Hashikma Marketing Communications Ltd"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Telzar/AZI"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "Hot Mobile/Mirs"
+      }
+    ]
+  },
+  "426": {
+    "mcc": 426,
+    "countryName": "Bahrain",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Batelco"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "ZAIN/Vodafone"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "VIVA"
+      }
+    ]
+  },
+  "427": {
+    "mcc": 427,
+    "countryName": "Qatar",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Ooredoo/Qtel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vodafone"
+      }
+    ]
+  },
+  "428": {
+    "mcc": 428,
+    "countryName": "Mongolia",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Skytel Co. Ltd"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Unitel"
+      },
+      {
+        "mnc": 91,
+        "carrierName": "Skytel Co. Ltd"
+      },
+      {
+        "mnc": 98,
+        "carrierName": "G-Mobile Corporation Ltd"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Mobicom"
+      }
+    ]
+  },
+  "429": {
+    "mcc": 429,
+    "countryName": "Nepal",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "NT Mobile/Namaste"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Ncell"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Smart Cell"
+      }
+    ]
+  },
+  "432": {
+    "mcc": 432,
+    "countryName": "Iran",
+    "carriers": [
+      {
+        "mnc": 11,
+        "carrierName": "MCI/TCI"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "TKC/KFZO"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Mobile Telecommunications Company of Esfahan JV-PJS (MTCE)"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Rightel"
+      },
+      {
+        "mnc": 32,
+        "carrierName": "Taliya"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "MTN/IranCell"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "MTCE"
+      }
+    ]
+  },
+  "434": {
+    "mcc": 434,
+    "countryName": "Uzbekistan",
+    "carriers": [
+      {
+        "mnc": 5,
+        "carrierName": "Ucell/Coscom"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Bee Line/Unitel"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "MTS/Uzdunrobita"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Buztel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Uzmacom"
+      }
+    ]
+  },
+  "436": {
+    "mcc": 436,
+    "countryName": "Tajikistan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Tcell/JC Somoncom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "CJSC Indigo Tajikistan"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Megafon"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Babilon-M"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Bee Line"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Tcell/JC Somoncom"
+      }
+    ]
+  },
+  "437": {
+    "mcc": 437,
+    "countryName": "Kyrgyzstan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Beeline/Bitel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "AkTel LLC"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "MEGACOM"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "O!/NUR Telecom"
+      }
+    ]
+  },
+  "438": {
+    "mcc": 438,
+    "countryName": "Turkmenistan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "MTS/Barash Communication"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Altyn Asyr/TM-Cell"
+      }
+    ]
+  },
+  "440": {
+    "mcc": 440,
+    "countryName": "Japan",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Y-Mobile"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 27,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 29,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 31,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 32,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 34,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 35,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 36,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 37,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 38,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 39,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 41,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 42,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 43,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 44,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 45,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 46,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 47,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 48,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 49,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 51,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 52,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 53,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 54,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 55,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 56,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 58,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 60,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 61,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 62,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 63,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 64,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 65,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 66,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 67,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 68,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 69,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 71,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 72,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 73,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 74,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 75,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 76,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 77,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 78,
+        "carrierName": "Okinawa Cellular Telephone"
+      },
+      {
+        "mnc": 79,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 80,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 81,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 82,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 83,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 84,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 85,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 86,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 87,
+        "carrierName": "NTT Docomo"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 89,
+        "carrierName": "KDDI Corporation"
+      },
+      {
+        "mnc": 90,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 92,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 93,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 94,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 95,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 96,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 97,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 98,
+        "carrierName": "SoftBank Mobile Corp"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "NTT Docomo"
+      }
+    ]
+  },
+  "450": {
+    "mcc": 450,
+    "countryName": "Korea S, Republic of",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "KT Freetel Co. Ltd."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "SK Telecom"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "KT Freetel Co. Ltd."
+      },
+      {
+        "mnc": 5,
+        "carrierName": "SK Telecom Co. Ltd"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "LG Telecom"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "KT Freetel Co. Ltd."
+      }
+    ]
+  },
+  "452": {
+    "mcc": 452,
+    "countryName": "Viet Nam",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Mobifone"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vinaphone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "S-Fone/Telecom"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Viettel Mobile"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "VietnaMobile"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Viettel Mobile"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Gmobile"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "I-Telecom"
+      }
+    ]
+  },
+  "454": {
+    "mcc": 454,
+    "countryName": "Hongkong, China",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "CSL Ltd."
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Citic Telecom Ltd."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "CSL Ltd."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "H3G/Hutchinson"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "H3G/Hutchinson"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "H3G/Hutchinson"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Vodafone/SmarTone"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "China Unicom Ltd"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Truephone"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "China Motion"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "CSL/New World PCS Ltd."
+      },
+      {
+        "mnc": 11,
+        "carrierName": "China-HongKong Telecom Ltd (CHKTL)"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "China Mobile/Peoples"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "China Mobile/Peoples"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "H3G/Hutchinson"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Vodafone/SmarTone"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "HKT/PCCW"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Vodafone/SmarTone"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "CSL Ltd."
+      },
+      {
+        "mnc": 19,
+        "carrierName": "HKT/PCCW"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "HKT/PCCW"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Multibyte Info Technology Ltd"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "China Mobile/Peoples"
+      },
+      {
+        "mnc": 29,
+        "carrierName": "HKT/PCCW"
+      },
+      {
+        "mnc": 31,
+        "carrierName": "CTExcel"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "shared by private TETRA systems"
+      },
+      {
+        "mnc": 47,
+        "carrierName": "shared by private TETRA systems"
+      }
+    ]
+  },
+  "455": {
+    "mcc": 455,
+    "countryName": "Macao, China",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Smartone Mobile"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "C.T.M. TELEMOVEL+"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "China Telecom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Hutchison Telephone Co. Ltd"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "C.T.M. TELEMOVEL+"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Hutchison Telephone Co. Ltd"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Smartone Mobile"
+      }
+    ]
+  },
+  "456": {
+    "mcc": 456,
+    "countryName": "Cambodia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Mobitel/Cam GSM"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Smart Mobile"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "QB/Cambodia Adv. Comms."
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Cambodia Advance Communications Co. Ltd (CADCOMMS)"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Smart Mobile"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Smart Mobile"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Viettel/Metfone"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Sotelco/Beeline"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "SEATEL"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "Mobitel/Cam GSM"
+      }
+    ]
+  },
+  "457": {
+    "mcc": 457,
+    "countryName": "Laos P.D.R.",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Lao Tel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "ETL Mobile"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "UNITEL/LAT"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Beeline/Tigo/Millicom"
+      }
+    ]
+  },
+  "460": {
+    "mcc": 460,
+    "countryName": "China",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "China Mobile GSM"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "China Unicom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "China Mobile GSM"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "China Telecom"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "China Telecom"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "China Unicom"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "China Mobile GSM"
+      }
+    ]
+  },
+  "466": {
+    "mcc": 466,
+    "countryName": "Taiwan",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Far EasTone"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Far EasTone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Far EasTone"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Asia Pacific Telecom Co. Ltd (APT)"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Far EasTone"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Far EasTone"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "VMAX Telecom Co. Ltd"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Global Mobile Corp."
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Chunghwa Telecom LDM"
+      },
+      {
+        "mnc": 56,
+        "carrierName": "International Telecom Co. Ltd (FITEL)"
+      },
+      {
+        "mnc": 68,
+        "carrierName": "ACeS Taiwan - ACeS Taiwan Telecommunications Co Ltd"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "KG Telecom"
+      },
+      {
+        "mnc": 89,
+        "carrierName": "T-Star/VIBO"
+      },
+      {
+        "mnc": 90,
+        "carrierName": "T-Star/VIBO"
+      },
+      {
+        "mnc": 92,
+        "carrierName": "Chunghwa Telecom LDM"
+      },
+      {
+        "mnc": 93,
+        "carrierName": "Mobitai"
+      },
+      {
+        "mnc": 97,
+        "carrierName": "Taiwan Cellular"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "TransAsia"
+      }
+    ]
+  },
+  "467": {
+    "mcc": 467,
+    "countryName": "Korea N., Dem. People's Rep.",
+    "carriers": [
+      {
+        "mnc": 193,
+        "carrierName": "Sun Net"
+      }
+    ]
+  },
+  "470": {
+    "mcc": 470,
+    "countryName": "Bangladesh",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "GrameenPhone"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Robi/Aktel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Orascom/Banglalink"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "TeleTalk"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Citycell"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Citycell"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Airtel/Warid"
+      }
+    ]
+  },
+  "472": {
+    "mcc": 472,
+    "countryName": "Maldives",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Dhiraagu/C&W"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Ooredo/Wataniya"
+      }
+    ]
+  },
+  "502": {
+    "mcc": 502,
+    "countryName": "Malaysia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Art900"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Digi Telecommunications"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "MTX Utara"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Maxis"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "CelCom"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Digi Telecommunications"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Maxis"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "U Mobile"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "CelCom"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Electcoms Wireless Sdn Bhd"
+      },
+      {
+        "mnc": 150,
+        "carrierName": "TuneTalk"
+      },
+      {
+        "mnc": 151,
+        "carrierName": "Baraka Telecom Sdn Bhd"
+      },
+      {
+        "mnc": 152,
+        "carrierName": "YES"
+      },
+      {
+        "mnc": 153,
+        "carrierName": "Webe/Packet One Networks (Malaysia) Sdn Bhd"
+      },
+      {
+        "mnc": 154,
+        "carrierName": "Tron/Talk Focus Sdn Bhd"
+      },
+      {
+        "mnc": 155,
+        "carrierName": "Samata Communications Sdn Bhd"
+      },
+      {
+        "mnc": 195,
+        "carrierName": "XOX Com Sdn Bhd"
+      },
+      {
+        "mnc": 198,
+        "carrierName": "CelCom"
+      }
+    ]
+  },
+  "505": {
+    "mcc": 505,
+    "countryName": "Australia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telstra Corp. Ltd."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Singtel Optus"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Department of Defense"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "The Ozitel Network Pty."
+      },
+      {
+        "mnc": 6,
+        "carrierName": "H3G Ltd."
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Railcorp/Vodafone"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Airnet Commercial Australia Ltd.."
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Telstra Corp. Ltd."
+      },
+      {
+        "mnc": 12,
+        "carrierName": "H3G Ltd."
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Railcorp/Vodafone"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "AAPT Ltd."
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Victorian Rail Track Corp. (VicTrack)"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Lycamobile Pty Ltd"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Advanced Comm Tech Pty."
+      },
+      {
+        "mnc": 26,
+        "carrierName": "Dialogue Communications Pty Ltd"
+      },
+      {
+        "mnc": 71,
+        "carrierName": "Telstra Corp. Ltd."
+      },
+      {
+        "mnc": 72,
+        "carrierName": "Telstra Corp. Ltd."
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Pivotel Group Ltd"
+      },
+      {
+        "mnc": 90,
+        "carrierName": "Singtel Optus"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Railcorp/Vodafone"
+      }
+    ]
+  },
+  "510": {
+    "mcc": 510,
+    "countryName": "Indonesia",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "PT Pasifik Satelit Nusantara (PSN)"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Indosat/Satelindo/M3"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Flexi (PT Telkom) (CDMA)/Telkomsel"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Axis/Natrindo"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "PT Smartfren Telecom Tbk"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Telkomsel"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "PT. Excelcom"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "Indosat/Satelindo/M3"
+      },
+      {
+        "mnc": 27,
+        "carrierName": "PT Sampoerna Telekomunikasi Indonesia (STI)"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "PT Smartfren Telecom Tbk"
+      },
+      {
+        "mnc": 89,
+        "carrierName": "H3G CP"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Esia (PT Bakrie Telecom) (CDMA)"
+      }
+    ]
+  },
+  "514": {
+    "mcc": 514,
+    "countryName": "Timor-Leste",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telin/Telkomcel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Timor Telecom"
+      }
+    ]
+  },
+  "515": {
+    "mcc": 515,
+    "countryName": "Philippines",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Fix Line"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Globe Telecom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Globe Telecom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Smart"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "SUN/Digitel"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "RED Mobile/Cure"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Next Mobile"
+      }
+    ]
+  },
+  "520": {
+    "mcc": 520,
+    "countryName": "Thailand",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Hutch/CAT CDMA"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "AIS/Advanced Info Service"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "AIS/Advanced Info Service"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "True Move/Orange"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Total Access (DTAC)"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "ACT Mobile"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "Total Access (DTAC)"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "ACeS Thailand - ACeS Regional Services Co Ltd"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Digital Phone Co."
+      },
+      {
+        "mnc": 99,
+        "carrierName": "True Move/Orange"
+      }
+    ]
+  },
+  "525": {
+    "mcc": 525,
+    "countryName": "Singapore",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Singtel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Singtel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "MobileOne Ltd"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Starhub"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Starhub"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Singtel"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "GRID Communications Pte Ltd"
+      }
+    ]
+  },
+  "528": {
+    "mcc": 528,
+    "countryName": "Brunei Darussalam",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telekom Brunei Bhd (TelBru)"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "b-mobile"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Datastream (DTSCom)"
+      }
+    ]
+  },
+  "530": {
+    "mcc": 530,
+    "countryName": "New Zealand",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Spark/NZ Telecom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Walker Wireless Ltd."
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Telstra"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Spark/NZ Telecom"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Two Degrees Mobile Ltd"
+      },
+      {
+        "mnc": 28,
+        "carrierName": "2degrees"
+      }
+    ]
+  },
+  "537": {
+    "mcc": 537,
+    "countryName": "Papua New Guinea",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Pacific Mobile"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "GreenCom PNG Ltd"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Digicel"
+      }
+    ]
+  },
+  "539": {
+    "mcc": 539,
+    "countryName": "Tonga",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Tonga Communications"
+      },
+      {
+        "mnc": 43,
+        "carrierName": "Shoreline Communication"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Digicel"
+      }
+    ]
+  },
+  "540": {
+    "mcc": 540,
+    "countryName": "Solomon Islands",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "BREEZE"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "bemobile"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "BREEZE"
+      }
+    ]
+  },
+  "541": {
+    "mcc": 541,
+    "countryName": "Vanuatu",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "SMILE"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "DigiCel"
+      }
+    ]
+  },
+  "542": {
+    "mcc": 542,
+    "countryName": "Fiji",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "DigiCell"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Vodafone"
+      }
+    ]
+  },
+  "544": {
+    "mcc": 544,
+    "countryName": "American Samoa",
+    "carriers": [
+      {
+        "mnc": 11,
+        "carrierName": "Blue Sky Communications"
+      }
+    ]
+  },
+  "545": {
+    "mcc": 545,
+    "countryName": "Kiribati",
+    "carriers": [
+      {
+        "mnc": 9,
+        "carrierName": "Kiribati Frigate"
+      }
+    ]
+  },
+  "546": {
+    "mcc": 546,
+    "countryName": "New Caledonia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "OPT Mobilis"
+      }
+    ]
+  },
+  "547": {
+    "mcc": 547,
+    "countryName": "French Polynesia",
+    "carriers": [
+      {
+        "mnc": 15,
+        "carrierName": "Pacific Mobile Telecom (PMT)"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Vini/Tikiphone"
+      }
+    ]
+  },
+  "548": {
+    "mcc": 548,
+    "countryName": "Cook Islands",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telecom Cook Islands"
+      }
+    ]
+  },
+  "549": {
+    "mcc": 549,
+    "countryName": "Samoa",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telecom Samoa Cellular Ltd."
+      },
+      {
+        "mnc": 27,
+        "carrierName": "Samoatel Mobile"
+      }
+    ]
+  },
+  "550": {
+    "mcc": 550,
+    "countryName": "Micronesia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "FSM Telecom"
+      }
+    ]
+  },
+  "552": {
+    "mcc": 552,
+    "countryName": "Palau (Republic of)",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Palau National Communications Corp. (PNCC) (Palau"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "PECI/PalauTel (Palau"
+      },
+      {
+        "mnc": 80,
+        "carrierName": "Palau Mobile Corp. (PMC) (Palau"
+      }
+    ]
+  },
+  "553": {
+    "mcc": 553,
+    "countryName": "Tuvalu",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Tuvalu Telecommunication Corporation (TTC)"
+      }
+    ]
+  },
+  "555": {
+    "mcc": 555,
+    "countryName": "Niue",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Niue Telecom"
+      }
+    ]
+  },
+  "602": {
+    "mcc": 602,
+    "countryName": "Egypt",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange/Mobinil"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vodafone/Mirsfone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "ETISALAT"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "WE/Telecom"
+      }
+    ]
+  },
+  "603": {
+    "mcc": 603,
+    "countryName": "Algeria",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "ATM Mobils"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orascom/DJEZZY"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Oreedo/Wataniya/Nedjma"
+      }
+    ]
+  },
+  "604": {
+    "mcc": 604,
+    "countryName": "Morocco",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Orange/Medi Telecom"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "IAM/Itissallat"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "INWI/WANA"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Al Houria Telecom"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "INWI/WANA"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "IAM/Itissallat"
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Al Houria Telecom"
+      }
+    ]
+  },
+  "605": {
+    "mcc": 605,
+    "countryName": "Tunisia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TuniCell/Tunisia Telecom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Oreedo/Orascom"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "TuniCell/Tunisia Telecom"
+      }
+    ]
+  },
+  "606": {
+    "mcc": 606,
+    "countryName": "Libya",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Libyana"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Al-Madar"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Al-Madar"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Libyana"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Hatef"
+      }
+    ]
+  },
+  "607": {
+    "mcc": 607,
+    "countryName": "Gambia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Gamcel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Africel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Comium"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Q-Cell"
+      }
+    ]
+  },
+  "608": {
+    "mcc": 608,
+    "countryName": "Senegal",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange/Sonatel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TIGO/Sentel GSM"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Expresso/Sudatel"
+      }
+    ]
+  },
+  "609": {
+    "mcc": 609,
+    "countryName": "Mauritania",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Mattel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Chinguitel SA"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Mauritel"
+      }
+    ]
+  },
+  "610": {
+    "mcc": 610,
+    "countryName": "Mali",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Malitel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orange/IKATEL"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "ATEL SA"
+      }
+    ]
+  },
+  "611": {
+    "mcc": 611,
+    "countryName": "Guinea",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange/Sonatel/Spacetel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "SotelGui"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Intercel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "MTN/Areeba"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Celcom"
+      }
+    ]
+  },
+  "612": {
+    "mcc": 612,
+    "countryName": "Ivory Coast",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Atlantik Tel./Moov"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Comstar"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Comium"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "MTN"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "OriCell"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Aircomm SA"
+      }
+    ]
+  },
+  "613": {
+    "mcc": 613,
+    "countryName": "Burkina Faso",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "TeleMob-OnaTel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orange/Airtel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "TeleCel"
+      }
+    ]
+  },
+  "614": {
+    "mcc": 614,
+    "countryName": "Niger",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Sahelcom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Airtel/Zain/CelTel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "MOOV/TeleCel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Orange"
+      }
+    ]
+  },
+  "615": {
+    "mcc": 615,
+    "countryName": "Togo",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Togo Telecom/TogoCELL"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Telecel/MOOV"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Telecel/MOOV"
+      }
+    ]
+  },
+  "616": {
+    "mcc": 616,
+    "countryName": "Benin",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Libercom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Etisalat/MOOV"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "MTN/Spacetel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Bell Benin/BBCOM"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "GloMobile"
+      }
+    ]
+  },
+  "617": {
+    "mcc": 617,
+    "countryName": "Mauritius",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange/Cellplus"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "CHILI/MTML"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "CHILI/MTML"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Emtel Ltd"
+      }
+    ]
+  },
+  "618": {
+    "mcc": 618,
+    "countryName": "Liberia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Lonestar"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Libercell"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Comium BVI"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "LibTelco"
+      }
+    ]
+  },
+  "619": {
+    "mcc": 619,
+    "countryName": "Sierra Leone",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Tigo/Millicom"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Africel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Comium"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Africel"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Qcell"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Mobitel"
+      }
+    ]
+  },
+  "620": {
+    "mcc": 620,
+    "countryName": "Ghana",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "MTN"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Vodafone"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Airtel/Tigo"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Expresso Ghana Ltd"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Airtel/Tigo"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "GloMobile"
+      }
+    ]
+  },
+  "621": {
+    "mcc": 621,
+    "countryName": "Nigeria",
+    "carriers": [
+      {
+        "mnc": 60,
+        "carrierName": "ETISALAT"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Glo Mobile"
+      },
+      {
+        "mnc": 25,
+        "carrierName": "Visafone"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Visafone"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Airtel/ZAIN/Econet"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "MTN"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "M-Tel/Nigeria Telecom. Ltd."
+      },
+      {
+        "mnc": 99,
+        "carrierName": "Starcomms"
+      }
+    ]
+  },
+  "622": {
+    "mcc": 622,
+    "countryName": "Chad",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Airtel/ZAIN/Celtel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Tchad Mobile"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Tigo/Milicom/Tchad Mobile"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Salam/Sotel"
+      }
+    ]
+  },
+  "623": {
+    "mcc": 623,
+    "countryName": "Central African Rep.",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Centrafr. Telecom+"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Telecel Centraf."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Orange/Celca"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Nationlink"
+      }
+    ]
+  },
+  "624": {
+    "mcc": 624,
+    "countryName": "Cameroon",
+    "carriers": [
+      {
+        "mnc": 4,
+        "carrierName": "Nextel"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "MTN"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orange"
+      }
+    ]
+  },
+  "625": {
+    "mcc": 625,
+    "countryName": "Cape Verde",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "CV Movel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "T+ Telecom"
+      }
+    ]
+  },
+  "626": {
+    "mcc": 626,
+    "countryName": "Sao Tome & Principe",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "CSTmovel"
+      }
+    ]
+  },
+  "627": {
+    "mcc": 627,
+    "countryName": "Equatorial Guinea",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "ORANGE/GETESA"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "HiTs-GE"
+      }
+    ]
+  },
+  "628": {
+    "mcc": 628,
+    "countryName": "Gabon",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Libertis S.A."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "MOOV/Telecel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Airtel/ZAIN/Celtel Gabon S.A."
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Azur/Usan S.A."
+      }
+    ]
+  },
+  "629": {
+    "mcc": 629,
+    "countryName": "Congo, Republic",
+    "carriers": [
+      {
+        "mnc": 7,
+        "carrierName": "Warid"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Airtel SA"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "MTN/Libertis"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Azur SA (ETC)"
+      }
+    ]
+  },
+  "630": {
+    "mcc": 630,
+    "countryName": "Congo, Dem. Rep.",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodacom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Airtel/ZAIN"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "SuperCell"
+      },
+      {
+        "mnc": 86,
+        "carrierName": "Orange RDC sarl"
+      },
+      {
+        "mnc": 88,
+        "carrierName": "Yozma Timeturns sprl (YTT)"
+      },
+      {
+        "mnc": 89,
+        "carrierName": "TIGO/Oasis"
+      },
+      {
+        "mnc": 90,
+        "carrierName": "Africell"
+      }
+    ]
+  },
+  "631": {
+    "mcc": 631,
+    "countryName": "Angola",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Unitel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "MoviCel"
+      }
+    ]
+  },
+  "632": {
+    "mcc": 632,
+    "countryName": "Guinea-Bissau",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "GuineTel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "SpaceTel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Orange"
+      }
+    ]
+  },
+  "633": {
+    "mcc": 633,
+    "countryName": "Seychelles",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "C&W"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Smartcom"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Airtel"
+      }
+    ]
+  },
+  "634": {
+    "mcc": 634,
+    "countryName": "Sudan",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Canar Telecom"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "ZAIN/Mobitel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "MTN"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Canar Telecom"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "ZAIN/Mobitel"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Sudani One"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Canar Telecom"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Sudani One"
+      },
+      {
+        "mnc": 22,
+        "carrierName": "MTN"
+      }
+    ]
+  },
+  "635": {
+    "mcc": 635,
+    "countryName": "Rwanda",
+    "carriers": [
+      {
+        "mnc": 10,
+        "carrierName": "MTN/Rwandacell"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "TIGO"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Airtel"
+      }
+    ]
+  },
+  "636": {
+    "mcc": 636,
+    "countryName": "Ethiopia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "ETH/MTN"
+      }
+    ]
+  },
+  "637": {
+    "mcc": 637,
+    "countryName": "Somalia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telesom"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Somafone"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Nationlink"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "HorTel"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Golis"
+      },
+      {
+        "mnc": 50,
+        "carrierName": "Hormuud"
+      },
+      {
+        "mnc": 60,
+        "carrierName": "Nationlink"
+      },
+      {
+        "mnc": 71,
+        "carrierName": "Somtel"
+      },
+      {
+        "mnc": 82,
+        "carrierName": "Somtel"
+      }
+    ]
+  },
+  "638": {
+    "mcc": 638,
+    "countryName": "Djibouti",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Djibouti Telecom SA (Evatis)"
+      }
+    ]
+  },
+  "639": {
+    "mcc": 639,
+    "countryName": "Kenya",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Safaricom Ltd."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Airtel/Zain/Celtel Ltd."
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Econet Wireless"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Telkom fka. Orange"
+      }
+    ]
+  },
+  "640": {
+    "mcc": 640,
+    "countryName": "Tanzania",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Tri Telecomm. Ltd."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TIGO/MIC"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Zantel/Zanzibar Telecom"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Vodacom Ltd"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Airtel/ZAIN/Celtel"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Dovetel (T) Ltd"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Tanzania Telecommunications Company Ltd (TTCL)"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Benson Informatics Ltd"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Halotel/Viettel Ltd"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Smile Communications Tanzania Ltd"
+      }
+    ]
+  },
+  "641": {
+    "mcc": 641,
+    "countryName": "Uganda",
+    "carriers": [
+      {
+        "mnc": 11,
+        "carrierName": "Uganda Telecom Ltd."
+      },
+      {
+        "mnc": 22,
+        "carrierName": "Airtel/Warid"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Airtel/Celtel"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "MTN Ltd."
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 18,
+        "carrierName": "Suretelecom Uganda Ltd"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "K2 Telecom Ltd"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "Smile Communications Uganda Ltd"
+      },
+      {
+        "mnc": 66,
+        "carrierName": "i-Tel Ltd"
+      }
+    ]
+  },
+  "642": {
+    "mcc": 642,
+    "countryName": "Burundi",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Spacetel/Econet/Leo"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Africel/Safaris"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Onatel/Telecel"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Smart Mobile/LACELL"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "Lumitel/Viettel"
+      },
+      {
+        "mnc": 82,
+        "carrierName": "Spacetel/Econet/Leo"
+      }
+    ]
+  },
+  "643": {
+    "mcc": 643,
+    "countryName": "Mozambique",
+    "carriers": [
+      {
+        "mnc": 3,
+        "carrierName": "Movitel"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "mCel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Vodacom"
+      }
+    ]
+  },
+  "645": {
+    "mcc": 645,
+    "countryName": "Zambia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Airtel/Zain/Celtel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "MTN/Telecel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Zamtel/Cell Z/MTS"
+      }
+    ]
+  },
+  "646": {
+    "mcc": 646,
+    "countryName": "Madagascar",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Airtel/MADACOM"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orange/Soci"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Sacel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Telma"
+      }
+    ]
+  },
+  "647": {
+    "mcc": 647,
+    "countryName": "Reunion",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Outremer Telecom"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "SFR"
+      }
+    ]
+  },
+  "648": {
+    "mcc": 648,
+    "countryName": "Zimbabwe",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Net One"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Telecel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Econet"
+      }
+    ]
+  },
+  "649": {
+    "mcc": 649,
+    "countryName": "Namibia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "MTC"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Switch/Nam. Telec."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "TN Mobile"
+      }
+    ]
+  },
+  "650": {
+    "mcc": 650,
+    "countryName": "Malawi",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "TNM/Telekom Network Ltd."
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Airtel/Zain/Celtel ltd."
+      }
+    ]
+  },
+  "651": {
+    "mcc": 651,
+    "countryName": "Lesotho",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodacom Lesotho"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Econet/Ezi-cel"
+      }
+    ]
+  },
+  "652": {
+    "mcc": 652,
+    "countryName": "Botswana",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Mascom Wireless (Pty) Ltd."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Orange"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "BeMOBILE"
+      }
+    ]
+  },
+  "653": {
+    "mcc": 653,
+    "countryName": "Swaziland",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Swazi Mobile"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "SwaziTelecom"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Swazi MTN"
+      }
+    ]
+  },
+  "654": {
+    "mcc": 654,
+    "countryName": "Comoros",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "TELMA TELCO SA"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "HURI - SNPT"
+      }
+    ]
+  },
+  "655": {
+    "mcc": 655,
+    "countryName": "South Africa",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Vodacom"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Telkom/8.ta"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Sentech"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Cell C"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "MTN"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "MTN"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Wireless Business Solutions (Pty) Ltd"
+      },
+      {
+        "mnc": 21,
+        "carrierName": "Cape Town Metropolitan"
+      }
+    ]
+  },
+  "657": {
+    "mcc": 657,
+    "countryName": "Eritrea",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Eritel"
+      }
+    ]
+  },
+  "659": {
+    "mcc": 659,
+    "countryName": "South Sudan (Republic of)",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "MTN South Sudan (South Sudan"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Gemtel Ltd (South Sudan"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Network of The World Ltd (NOW) (South Sudan"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Zain South Sudan (South Sudan"
+      }
+    ]
+  },
+  "702": {
+    "mcc": 702,
+    "countryName": "Belize",
+    "carriers": [
+      {
+        "mnc": 67,
+        "carrierName": "DigiCell"
+      },
+      {
+        "mnc": 68,
+        "carrierName": "International Telco (INTELCO)"
+      }
+    ]
+  },
+  "704": {
+    "mcc": 704,
+    "countryName": "Guatemala",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Claro"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TIGO/COMCEL"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Telefonica"
+      }
+    ]
+  },
+  "706": {
+    "mcc": 706,
+    "countryName": "El Salvador",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "CLARO/CTE"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Telemovil"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Telefonica"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "INTELFON SA de CV"
+      }
+    ]
+  },
+  "708": {
+    "mcc": 708,
+    "countryName": "Honduras",
+    "carriers": [
+      {
+        "mnc": 2,
+        "carrierName": "Telefonica/CELTEL"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "HonduTel"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "SERCOM/CLARO"
+      },
+      {
+        "mnc": 40,
+        "carrierName": "Digicel"
+      }
+    ]
+  },
+  "710": {
+    "mcc": 710,
+    "countryName": "Nicaragua",
+    "carriers": [
+      {
+        "mnc": 21,
+        "carrierName": "Empresa Nicaraguense de Telecomunicaciones SA (ENITEL)"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 73,
+        "carrierName": "Claro"
+      }
+    ]
+  },
+  "712": {
+    "mcc": 712,
+    "countryName": "Costa Rica",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "ICE"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "ICE"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Claro"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Virtualis"
+      }
+    ]
+  },
+  "714": {
+    "mcc": 714,
+    "countryName": "Panama",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Cable & W./Mas Movil"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Claro"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Movistar"
+      }
+    ]
+  },
+  "716": {
+    "mcc": 716,
+    "countryName": "Peru",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "GlobalStar"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "GlobalStar"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Nextel"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Claro/Amer.Mov./TIM"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Viettel Mobile"
+      },
+      {
+        "mnc": 17,
+        "carrierName": "Nextel"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Claro/Amer.Mov./TIM"
+      }
+    ]
+  },
+  "722": {
+    "mcc": 722,
+    "countryName": "Argentina Republic",
+    "carriers": [
+      {
+        "mnc": 330,
+        "carrierName": "Claro/CTI/AMX"
+      },
+      {
+        "mnc": 20,
+        "carrierName": "Nextel"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "Movistar/Telefonica"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Compania De Radiocomunicaciones Moviles SA"
+      },
+      {
+        "mnc": 70,
+        "carrierName": "Movistar/Telefonica"
+      },
+      {
+        "mnc": 310,
+        "carrierName": "Claro/CTI/AMX"
+      },
+      {
+        "mnc": 320,
+        "carrierName": "Claro/CTI/AMX"
+      },
+      {
+        "mnc": 340,
+        "carrierName": "Telecom Personal S.A."
+      },
+      {
+        "mnc": 341,
+        "carrierName": "Telecom Personal S.A."
+      }
+    ]
+  },
+  "724": {
+    "mcc": 724,
+    "countryName": "Brazil",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Nextel (Telet)"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Vivo S.A./Telemig"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TIM"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "TIM"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "TIM"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Claro/Albra/America Movil"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Vivo S.A./Telemig"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "CTBC/Triangulo"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "TIM"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Vivo S.A./Telemig"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Vivo S.A./Telemig"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Claro/Albra/America Movil"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Sercontel Cel"
+      },
+      {
+        "mnc": 16,
+        "carrierName": "Brazil Telcom"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Vivo S.A./Telemig"
+      },
+      {
+        "mnc": 23,
+        "carrierName": "Vivo S.A./Telemig"
+      },
+      {
+        "mnc": 24,
+        "carrierName": "Amazonia Celular S/A"
+      },
+      {
+        "mnc": 26,
+        "carrierName": "AmericaNet"
+      },
+      {
+        "mnc": 30,
+        "carrierName": "Oi (TNL PCS/Oi)"
+      },
+      {
+        "mnc": 31,
+        "carrierName": "Oi (TNL PCS/Oi)"
+      },
+      {
+        "mnc": 32,
+        "carrierName": "CTBC Celular SA (CTBC)"
+      },
+      {
+        "mnc": 33,
+        "carrierName": "CTBC Celular SA (CTBC)"
+      },
+      {
+        "mnc": 34,
+        "carrierName": "CTBC Celular SA (CTBC)"
+      },
+      {
+        "mnc": 37,
+        "carrierName": "Unicel do Brasil Telecomunicacoes Ltda"
+      },
+      {
+        "mnc": 38,
+        "carrierName": "Claro/Albra/America Movil"
+      },
+      {
+        "mnc": 39,
+        "carrierName": "Nextel (Telet)"
+      },
+      {
+        "mnc": 54,
+        "carrierName": "PORTO SEGURO TELECOMUNICACOES"
+      }
+    ]
+  },
+  "730": {
+    "mcc": 730,
+    "countryName": "Chile",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "TESAM SA"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Entel Telefonia Mov"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "TELEFONICA"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Claro"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Nextel SA"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "Nextel SA"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Blue Two Chile SA"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "TELEFONICA"
+      },
+      {
+        "mnc": 8,
+        "carrierName": "VTR Banda Ancha SA"
+      },
+      {
+        "mnc": 9,
+        "carrierName": "Nextel SA"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Entel Telefonia"
+      },
+      {
+        "mnc": 11,
+        "carrierName": "Celupago SA"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Telestar Movil SA"
+      },
+      {
+        "mnc": 13,
+        "carrierName": "Tribe Mobile SPA"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "Netline Telefonica Movil Ltda"
+      },
+      {
+        "mnc": 15,
+        "carrierName": "Cibeles Telecom SA"
+      },
+      {
+        "mnc": 19,
+        "carrierName": "Sociedad Falabella Movil SPA"
+      }
+    ]
+  },
+  "732": {
+    "mcc": 732,
+    "countryName": "Colombia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "TIGO/Colombia Movil"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Edatel S.A."
+      },
+      {
+        "mnc": 20,
+        "carrierName": "UNE EPM Telecomunicaciones SA ESP"
+      },
+      {
+        "mnc": 101,
+        "carrierName": "Comcel S.A. Occel S.A./Celcaribe"
+      },
+      {
+        "mnc": 102,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 103,
+        "carrierName": "TIGO/Colombia Movil"
+      },
+      {
+        "mnc": 111,
+        "carrierName": "TIGO/Colombia Movil"
+      },
+      {
+        "mnc": 123,
+        "carrierName": "Movistar"
+      },
+      {
+        "mnc": 130,
+        "carrierName": "Avantel SAS"
+      },
+      {
+        "mnc": 142,
+        "carrierName": "UNE EPM Telecomunicaciones SA ESP"
+      },
+      {
+        "mnc": 154,
+        "carrierName": "Virgin Mobile Colombia SAS"
+      },
+      {
+        "mnc": 187,
+        "carrierName": "eTb"
+      }
+    ]
+  },
+  "734": {
+    "mcc": 734,
+    "countryName": "Venezuela",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "DigiTel C.A."
+      },
+      {
+        "mnc": 2,
+        "carrierName": "DigiTel C.A."
+      },
+      {
+        "mnc": 3,
+        "carrierName": "DigiTel C.A."
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Movistar/TelCel"
+      },
+      {
+        "mnc": 6,
+        "carrierName": "Movilnet C.A."
+      }
+    ]
+  },
+  "736": {
+    "mcc": 736,
+    "countryName": "Bolivia",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Viva/Nuevatel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Entel Pcs"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Tigo"
+      }
+    ]
+  },
+  "738": {
+    "mcc": 738,
+    "countryName": "Guyana",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "DigiCel"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Cellink Plus"
+      }
+    ]
+  },
+  "740": {
+    "mcc": 740,
+    "countryName": "Ecuador",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Failed Call(s)/MOVISTAR/OteCel"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Claro/Porta"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "CNT Mobile"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Tuenti"
+      }
+    ]
+  },
+  "744": {
+    "mcc": 744,
+    "countryName": "Paraguay",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Hola/VOX"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Claro/Hutchison"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Compa"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "Tigo/Telecel"
+      },
+      {
+        "mnc": 5,
+        "carrierName": "TIM/Nucleo/Personal"
+      }
+    ]
+  },
+  "746": {
+    "mcc": 746,
+    "countryName": "Suriname",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Telesur"
+      },
+      {
+        "mnc": 2,
+        "carrierName": "Telecommunicatiebedrijf Suriname (TELESUR)"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Digicel"
+      },
+      {
+        "mnc": 4,
+        "carrierName": "UNIQA"
+      }
+    ]
+  },
+  "748": {
+    "mcc": 748,
+    "countryName": "Uruguay",
+    "carriers": [
+      {
+        "mnc": 0,
+        "carrierName": "Ancel/Antel"
+      },
+      {
+        "mnc": 1,
+        "carrierName": "Ancel/Antel"
+      },
+      {
+        "mnc": 3,
+        "carrierName": "Ancel/Antel"
+      },
+      {
+        "mnc": 7,
+        "carrierName": "MOVISTAR"
+      },
+      {
+        "mnc": 10,
+        "carrierName": "Claro/AM Wireless"
+      }
+    ]
+  },
+  "750": {
+    "mcc": 750,
+    "countryName": "Falkland Islands (Malvinas)",
+    "carriers": [
+      {
+        "mnc": 1,
+        "carrierName": "Cable and Wireless South Atlantic Ltd (Falkland Islands"
+      }
+    ]
+  },
+  "901": {
+    "mcc": 901,
+    "countryName": "Satellite Networks",
+    "carriers": [
+      {
+        "mnc": 11,
+        "carrierName": "InMarSAT"
+      },
+      {
+        "mnc": 14,
+        "carrierName": "AeroMobile"
+      },
+      {
+        "mnc": 12,
+        "carrierName": "Maritime Communications Partner AS"
+      }
+    ]
+  }
+}
