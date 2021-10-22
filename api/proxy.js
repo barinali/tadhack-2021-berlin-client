@@ -3,8 +3,6 @@ const AWA_API_URL = 'https://awa.network/api';
 const API_URL = `${AWA_API_URL}/routing/simulation`;
 
 export default async (req, res) => {
-  console.log('req', req)
-
   const options = {
     json: req.body,
     searchParams: {
@@ -25,8 +23,6 @@ export default async (req, res) => {
 
     res.status(200).send(body);
   } catch (err) {
-    console.error(err.response);
-
     res.status(500).send(err.response.body);
   }
 };
