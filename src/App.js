@@ -107,10 +107,6 @@ export default function App() {
   const [mccData, setMccData] = useState([]);
   const [snackbarMessage, setSnackbarMessage] = useState(null);
 
-  // useEffect(() => {
-  //   setRawData(mockData);
-  // }, [])
-
   useEffect(() => {
     setPriceData(preparePriceData(rawData));
     setMccData(prepareMCCData(rawData));

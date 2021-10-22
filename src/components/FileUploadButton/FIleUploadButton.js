@@ -6,7 +6,6 @@ export default function FileUploadButton({ onChange, disabled }) {
   const changeHandler = (event) => {
     onChange(event);
 
-    // to clear the file input
     event.target.value = '';
   }
 
